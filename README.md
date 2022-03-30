@@ -8,11 +8,9 @@ This repository has also been built off of Fabulously Optimized's, which can be 
 
 ## Downloads
 
-* [Curseforge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) 
-Supports CurseForge Launcher, MultiMC, GDLauncher and vanilla launcher. [Install instructions](https://docs.srnyx.xyz/modpack)
+* [Curseforge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) (supports CurseForge Launcher, MultiMC, GDLauncher and vanilla launcher. [Install instructions](https://docs.srnyx.xyz/modpack))
 
-* [Modrinth](https://modrinth.com/modpack/fabulously-optimized)
-No supported launchers yet
+* [Modrinth](https://modrinth.com/modpack/fabulously-optimized) (no supported launchers yet)
 
 ## Reviews
 
