@@ -1,0 +1,27 @@
+{
+    "ModSettings": {
+        "enable_auto_refill": false,
+        "enable_analytics": true,
+        "interval_between_clicks_ms": 50,
+        "stop_at_screen_close": true,
+        "first_run": false
+    },
+    "GuiSettings": {
+        "continuous_crafting_saved_value": false
+    },
+    "LockedSlotsSettings": {
+        "locked_slots_disable_quick_move_throw": false,
+        "locked_slots_disable_throw_for_non_stackable": false,
+        "locked_slots_delay_keeper_reinit_ticks": 100
+    },
+    "AutoRefillSettings": {
+        "refill_before_tool_break": false
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": "BUTTON_5"
+            }
+        }
+    }
+}

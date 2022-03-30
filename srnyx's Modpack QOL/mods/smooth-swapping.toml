@@ -1,0 +1,13 @@
+name = "Smooth Swapping (Fabric)"
+filename = "Fabric-1.17.1-SmoothSwapping-0.4.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3548/72/Fabric-1.17.1-SmoothSwapping-0.4.3.jar"
+hash-format = "sha1"
+hash = "a27e93fd64981dce4ffbd0dcf21f48910ee9558a"
+
+[update]
+[update.curseforge]
+file-id = 3548072
+project-id = 513689

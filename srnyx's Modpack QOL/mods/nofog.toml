@@ -1,0 +1,13 @@
+name = "NoFog"
+filename = "NoFog-1.2.0_1.16.5-1.18.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3599/894/NoFog-1.2.0_1.16.5-1.18.1-fabric.jar"
+hash-format = "sha1"
+hash = "caee3631ddc55f08e6596ecc608bdd50787f1073"
+
+[update]
+[update.curseforge]
+file-id = 3599894
+project-id = 296468

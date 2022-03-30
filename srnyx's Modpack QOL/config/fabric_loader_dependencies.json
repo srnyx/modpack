@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "overrides": {
+    "whoami": {
+      "-depends": {
+        "minecraft": ""
+      }
+    },
+    "microdurability": {
+      "-depends": {
+        "minecraft": ""
+      }
+    }
+  }
+}

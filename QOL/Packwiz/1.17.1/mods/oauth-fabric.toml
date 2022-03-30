@@ -1,0 +1,13 @@
+name = "OAuth [Fabric]"
+filename = "oauth-fabric-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3424/374/oauth-fabric-1.0.jar"
+hash-format = "sha1"
+hash = "fac6d4557839b1b5f75b21b09964677d59cdb6ad"
+
+[update]
+[update.curseforge]
+file-id = 3424374
+project-id = 515054

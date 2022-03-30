@@ -1,0 +1,13 @@
+name = "Better Recipe Book (BRB)"
+filename = "better-recipe-book-1.5.5-1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3562/258/better-recipe-book-1.5.5-1.17.1.jar"
+hash-format = "sha1"
+hash = "c5f3af7afecddeedb1a32c50e011b66fd6ca79d2"
+
+[update]
+[update.curseforge]
+file-id = 3562258
+project-id = 486485
