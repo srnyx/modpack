@@ -1,9 +1,9 @@
 # srnyx's Modpack
 
-A simple FABRIC modpack that includes all the mods I play with, usually on multiplayer.
-The mod includes mainly optimization mods, but it doesn't have OptiFine. Instead of OptiFine, it uses Sodium and other mods like Fabric Capes that give it the OptiFine feel.
+A simple FABRIC modpack that includes all the mods I play with, usually on multiplayer. The modpack includes mainly optimization mods, but it doesn't have OptiFine. Instead of OptiFine, it uses Sodium and other mods like Fabric Capes that give it the OptiFine feel.
 
 Most of the optimization mods are from Fabulously Optimized, which can be found here: https://www.curseforge.com/minecraft/modpacks/fabulously-optimized
+
 This repository has also been built off of Fabulously Optimized's, which can be found here: https://github.com/Fabulously-Optimized/fabulously-optimized
 
 ## Downloads
