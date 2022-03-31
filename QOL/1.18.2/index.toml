@@ -542,8 +542,8 @@ hash = "ad3e81701a0b1b88e69309e16cde56c40ff028e6dfb63c67778b56166da44f64"
 metafile = true
 
 [[files]]
-file = "mods/tooltip-scroll-1.0.1.jar"
-hash = "55c985fa552b0913640826b13c508e9acc83ad142d4049d51e5b8a4d5e0c9dfb"
+file = "mods/tooltip-scroll-1.0.2.jar"
+hash = "d5b2af47e1e79b230319aa5478dd8924853d0f8926e12019b29e1a8f774ef24a"
 
 [[files]]
 file = "mods/unglow-1.0-SNAPSHOT.jar"
