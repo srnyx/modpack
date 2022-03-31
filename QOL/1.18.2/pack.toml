@@ -1,0 +1,13 @@
+name = "srnyx's Modpack"
+author = "srnyx"
+version = "3.0.0-qol"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "88bf7da0427a165c36dfa90642a773bac174ee605a4b6db88dd3410232d23d35"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.2"

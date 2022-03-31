@@ -1,0 +1,13 @@
+name = "MaLiLib"
+filename = "malilib-fabric-1.17.1-0.10.0-dev.26.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3498/871/malilib-fabric-1.17.1-0.10.0-dev.26.jar"
+hash-format = "sha1"
+hash = "42ae3dbdc290508cfc49940a1333843b92a74446"
+
+[update]
+[update.curseforge]
+file-id = 3498871
+project-id = 303119

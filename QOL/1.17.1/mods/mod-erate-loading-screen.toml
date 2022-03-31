@@ -1,0 +1,13 @@
+name = "Mod-erate Loading Screen"
+filename = "moderate-loading-screen-1.1.2+1.17-1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3608/716/moderate-loading-screen-1.1.2+1.17-1.18.jar"
+hash-format = "sha1"
+hash = "0290b3523966879b35596e653f4b995f651560a1"
+
+[update]
+[update.curseforge]
+file-id = 3608716
+project-id = 557180

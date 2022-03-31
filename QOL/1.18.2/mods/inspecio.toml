@@ -1,0 +1,13 @@
+name = "Inspecio"
+filename = "inspecio-1.3.0+1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3671/909/inspecio-1.3.0+1.18.jar"
+hash-format = "sha1"
+hash = "12e431e3690312aacf094446e4cb43bfe82aea86"
+
+[update]
+[update.curseforge]
+file-id = 3671909
+project-id = 492180

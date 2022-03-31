@@ -1,0 +1,22 @@
+[clean-logs]
+# Print out all phrases and regex to be filtered out on startup
+printOnStart = false
+
+# Print a single line on start saying that Clean Logs will filter from this point forward
+printInitLineOnStart = false
+
+# If a log message has one of these phrases, it will be filtered out from logging
+phrases = [
+"does not respect SemVer - comparison support is limited.",
+"uses more dot-separated version components than SemVer allows; support for this is currently not guaranteed.",
+"disables it and children",
+"Method overwrite conflict for method_22920 in sodium.mixins.json:features.buffer_builder.intrinsics.MixinBufferBuilder, previously written by net.coderbot.iris.mixin.vertices.block_rendering.MixinBufferBuilder_SeparateAo. Skipping method.",
+"Ksyxis will speedup your world loading. :P",
+"BUT IT MAY CAUSE ISSUES (INCLUDING COMPAT). DON'T ASK OTHER MODS' AUTHORS FOR COMPAT!",
+"data (ignore if not using a",
+"Shaders are disabled because no valid shaderpack is selected",
+"Shaders are disabled"
+]
+
+# If a log message matches one of these regex patterns, it will be filtered out from logging
+regex = []

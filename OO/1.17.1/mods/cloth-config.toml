@@ -1,0 +1,13 @@
+name = "Cloth Config API (Fabric)"
+filename = "cloth-config-5.2.47-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3559/636/cloth-config-5.2.47-fabric.jar"
+hash-format = "sha1"
+hash = "dcd0f1cf65b9809dbea9cf2710d5d60c95a4b613"
+
+[update]
+[update.curseforge]
+file-id = 3559636
+project-id = 319057

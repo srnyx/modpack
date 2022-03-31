@@ -1,0 +1,8 @@
+{ 
+	"clientCapeType": "OPTIFINE",
+	"enableOptifine": true,
+	"enableLabyMod": true,
+	"enableWynntils": false,
+	"enableMinecraftCapesMod": false,
+	"enableElytraTexture": true
+}

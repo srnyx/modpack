@@ -1,0 +1,15 @@
+{
+	"backgroundColor": 1447446,
+	"showTater": true,
+	"modsOnlyOnce": true,
+	"hideLibraries": false,
+	"modIdBlacklist": [
+		"fabric-*",
+		"fabric"
+	],
+	"iconSize": 40,
+	"screenType": "STACKING",
+	"stackingConfig": {
+		"cycleSeconds": 1
+	}
+}

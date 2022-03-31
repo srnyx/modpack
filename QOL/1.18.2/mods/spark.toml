@@ -1,0 +1,13 @@
+name = "spark"
+filename = "spark-1.8.14-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3670/53/spark-1.8.14-fabric.jar"
+hash-format = "sha1"
+hash = "597ce2e6aa61c4e99b2674af489335b25adb3b48"
+
+[update]
+[update.curseforge]
+file-id = 3670053
+project-id = 361579

@@ -1,0 +1,13 @@
+name = "Chest Tracker"
+filename = "chesttracker-1.17.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3489/610/chesttracker-1.17.1-1.1.1.jar"
+hash-format = "sha1"
+hash = "43a8dc0563ffc99fa3f11bdc9e399b3f79e6d86b"
+
+[update]
+[update.curseforge]
+file-id = 3489610
+project-id = 397217

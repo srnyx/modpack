@@ -1,0 +1,22 @@
+[clean-logs]
+# Print out all phrases and regex to be filtered out on startup
+printOnStart = false
+
+# Print a single line on start saying that Clean Logs will filter from this point forward
+printInitLineOnStart = true
+
+# If a log message has one of these phrases, it will be filtered out from logging
+phrases = [
+"does not respect SemVer - comparison support is limited.",
+"is disabled as Hydrogen is installed",
+"disables it and children",
+"Adding Mixin to disable Hydrogen's MixinState#postCreateWithTable",
+"Method overwrite conflict for getNativeMemoryUsage in sodium.mixins.json:features.debug.MixinDebugHud, previously written by net.coderbot.iris.mixin.MixinDebugScreenOverlay. Skipping method.",
+"Ksyxis will speedup your world loading. :P",
+"BUT IT MAY CAUSE ISSUES (INCLUDING COMPAT). DON'T ASK OTHER MODS' AUTHORS FOR COMPAT!",
+"Method overwrite conflict for method_22920 in sodium.mixins.json:features.buffer_builder.intrinsics.MixinBufferBuilder, previously written by net.coderbot.iris.mixin.vertices.block_rendering.MixinBufferBuilder_SeparateAo. Skipping method.",
+"Shift.BY=3 on fabric-lifecycle-events-v1.mixins.json:client.WorldChunkMixin::handler$zma000$onLoadBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning."
+]
+
+# If a log message matches one of these regex patterns, it will be filtered out from logging
+regex = []

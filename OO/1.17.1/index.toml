@@ -1,0 +1,215 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "127884c44611586e201fdbe2d0e08f91407804aaa048a6cb7342749e0f0ef64b"
+
+[[files]]
+file = "config/yosbr/config/cem.conf"
+hash = "99ecb0cc231f75abd0e0cfb6ebcfae0fa407c1dab9956587c1792d45e715b6c7"
+
+[[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "37192c981587637ee01f337fa4900b7ba834ae2c7e1f4a612d09876170feaa4b"
+
+[[files]]
+file = "config/yosbr/config/enhanced_bes.properties"
+hash = "477ae10beee9c8b42025d85510e09a652a8ebf85651fc97fd82e80e043118ad0"
+
+[[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "e3323cca8c167330c26c6e40c38b99180f56741f9f19641c9f9f5232c43180a5"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "4ce7029e4d38a779323495cc183f6856681fb797bf87035d00521d29b92dba38"
+
+[[files]]
+file = "config/yosbr/config/nicephore.json"
+hash = "e4bcbc92ce2ac8eab0b626d2b2759837f2067f57ddfe1812fb85b7d668066044"
+
+[[files]]
+file = "config/yosbr/config/okzoomer.json5"
+hash = "e7e05a60ee978b45b069ec4f08c5ee98b21a33c6620f7af9946a2bdcaed297f5"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "b725b1173f7a5047e7591c25640158fa397f685dd3f4fe4674a4ccd07cb77a6a"
+
+[[files]]
+file = "mods/animatica.toml"
+hash = "5eeda9b60b87f42a1c3abb3112cc44c0931e30d91c01e8f84ead1dc76c9e01e7"
+metafile = true
+
+[[files]]
+file = "mods/capes.toml"
+hash = "f617026cfda2fa9f9b83c6eda14f0e88bc0fd331cfd753ee57f81181bdf4e350"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.toml"
+hash = "79a9f4d9cc7c3be879f3d95561411931623c6c8b2c9d66158bed409ec9d3c993"
+metafile = true
+
+[[files]]
+file = "mods/cloth-api.toml"
+hash = "ae74440dc43bd2ecaa3a65df35feb7068779928a01d3ff0f859a027c234e7f4d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "db3f1cb1712be13edf43b11e7abea4e90bcbaf9411e21be66732d1aa188a2a99"
+metafile = true
+
+[[files]]
+file = "mods/colormatic.toml"
+hash = "1f904d9c48966cf18d7e570e69b38e0be8dd0b2ebc3d663778c149ea4f8815ef"
+metafile = true
+
+[[files]]
+file = "mods/completeconfig.toml"
+hash = "1e9a03c552959f405d96b70c89df60d9d6c56af64a6085985f797ac33119d301"
+metafile = true
+
+[[files]]
+file = "mods/continuity.toml"
+hash = "dfbde81e6c97c0d9f1fc5606e2fb60ee30733a6cd5f8a490d0ce0d02b92611ac"
+metafile = true
+
+[[files]]
+file = "mods/cull-leaves.toml"
+hash = "a6bd295330e16716d7ce62249c88e10f1d608982ed2d477f0592c6afa38f2290"
+metafile = true
+
+[[files]]
+file = "mods/cull-particles-fabric.toml"
+hash = "7da94bb7974a827005667729bd875d84125ab437ce5c52acfed1662b2daf527e"
+metafile = true
+
+[[files]]
+file = "mods/custom-entity-models-cem.toml"
+hash = "c28086c626b8c7dfc0831ad899fbe286ab818dffe3937a996c1cbfa7b0d57828"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.toml"
+hash = "3397e0c2986798eeae5c92066e94391e1d263a284b267a6b09fa6a085bf6d43e"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-block-entities.toml"
+hash = "142dd4b6ca94d6dd39eb1a9e2e3c47c3d4c4f18e6b6b43d7b561e7004fa228dc"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.toml"
+hash = "9ba20efed95fbe1dca9f2cb7061451870da936fcb096b7d37d7b0276f3d0ff2f"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "4cd699279c95185a6bfdac429992bb247aef8b2bd3710dc9146032fd6c9f0838"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "7dd17b9b9514e5dbd19d536d82721b13d7590268a29825d732d4d332b16a5886"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.toml"
+hash = "0f9514b024b5a685602f28c154ece47838b2fc3d2c8ed305bffd68665365d3f1"
+metafile = true
+
+[[files]]
+file = "mods/hydrogen-fabric-mc1.17.1-0.3.jar"
+hash = "598f6168244467220f37e9a5a07a5ba59af5a0df0edf5ba13a44c7ee9b02c1e1"
+
+[[files]]
+file = "mods/indium.toml"
+hash = "557df6395093484f3c6086be2f24668631316370fee4de340f8bd0b5b50e9bbc"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.toml"
+hash = "03bdecb3aeb9bad539c01ec592fb32a03b3aaff2ae5738a0ecb273af89bbf0f3"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "4e19ddb20ea235f12a3aae5b6d58e29b2ed785803e98a7b777e7d9821e98f69b"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.toml"
+hash = "60c3a88c0c08c0b8e816613fd2aaae6cab5861bb65de3dc897de4fdd25cdded2"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.toml"
+hash = "f53ac074b0938319dc0ff805692993a9941beea49c3e86d7e0a42c3db1e64243"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "d469405ae3ba7e17c6603477e0c444914e48932ffca884f630b9ee459ffe0039"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "3ee6a0b3b3a2e2cfc9481ecbe723f8e1fd9af07f82f292f83e91c015a370ebd9"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "0da25ca4fc6b2fb4d7a79591b8bedf2a1e39a7a6f150cb2f523343c75aaf72d2"
+metafile = true
+
+[[files]]
+file = "mods/nicephore-fabric.toml"
+hash = "64cfcefaef76a2100ca180b3a774f6d77b0bacafca8d596c8e7c65a6d868a914"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-crashes.toml"
+hash = "810c680e8b900315808fbe2a15ba499785164875e604aef0ad7a0ff8a515fd22"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.toml"
+hash = "cd412f9ce95624d3f54a0b1d1f4e708ce22732f667b0bc77174cc162ac81237a"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.toml"
+hash = "c65786371a671004847bf5a52ada0213f5b7f76b2a06a1983e4c470f3bb29bf1"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot.toml"
+hash = "03b0fea337b0d6514375aa6fbb7617e6681cbc6409e9355b5828665959f41d0f"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.toml"
+hash = "a4e9af95a6793c8d520067b3756cac59e8aed72027c94f7f63a456935e43a030"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "fc23d6075353aae699751ede7c2e562ac656ac21f8263a94a978ef15a8a0b480"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "da293c7a4497531e65eaab8a771241f822e88c43ff83f72eb92c43371526733a"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.toml"
+hash = "527e21c9bc55b0d1db9016a2fec4ff2dee2a93c53edb8c1363d2d2ee7730afd0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/Sildur's Vibrant Shaders v1.32 Lite.zip"
+hash = "c4f18cbb248d3b792fc902c21495a420b20f24a221bce44d98d49fdcabad387c"

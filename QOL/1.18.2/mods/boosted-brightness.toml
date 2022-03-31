@@ -1,0 +1,13 @@
+name = "Boosted Brightness"
+filename = "boosted-brightness-2.1.1+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3678/638/boosted-brightness-2.1.1+1.18.2.jar"
+hash-format = "sha1"
+hash = "9a3d9d4d7e9ff3d27a104bcdff28afc6c9f8d1c0"
+
+[update]
+[update.curseforge]
+file-id = 3678638
+project-id = 386460

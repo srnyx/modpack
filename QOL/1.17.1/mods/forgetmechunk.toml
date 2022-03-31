@@ -1,0 +1,13 @@
+name = "ForgetMeChunk"
+filename = "forgetmechunk-1.17.X-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3706/27/forgetmechunk-1.17.X-1.0.3.jar"
+hash-format = "sha1"
+hash = "c34d28ab3e485350579c3ed2546d27c34193b701"
+
+[update]
+[update.curseforge]
+file-id = 3706027
+project-id = 591317

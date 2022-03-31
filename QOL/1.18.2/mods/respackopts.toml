@@ -1,0 +1,13 @@
+name = "Respackopts"
+filename = "respackopts-2.10.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3667/572/respackopts-2.10.0.jar"
+hash-format = "sha1"
+hash = "381cd0d6c76ca16c60e3e16a96cd6170dded0273"
+
+[update]
+[update.curseforge]
+file-id = 3667572
+project-id = 430090

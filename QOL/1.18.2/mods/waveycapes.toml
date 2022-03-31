@@ -1,0 +1,13 @@
+name = "Wavey Capes"
+filename = "WaveyCapes-fabric-1.1.1-mc1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3695/381/WaveyCapes-fabric-1.1.1-mc1.18.jar"
+hash-format = "sha1"
+hash = "bb609e509d677a1e95e0d45a1da9671a5f5dee2e"
+
+[update]
+[update.curseforge]
+file-id = 3695381
+project-id = 521594

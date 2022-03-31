@@ -1,0 +1,255 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/yosbr/background.png"
+hash = "c44d6709fc4fa880686abfecd7c7636ac51065ff0bc1961ed0f261f6a7b507aa"
+
+[[files]]
+file = "config/yosbr/config/betterfpsdist.json"
+hash = "4e2820ba0c16bd14e337ea3b6aeea0df47137544904de0af7b97e3fd469060ee"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "ae5f1d37495ac69d371b6c4b32f1d08d46825f82ed1424f0abfbadb5ebeb702b"
+
+[[files]]
+file = "config/yosbr/config/cem.conf"
+hash = "c869b1e1cf73b7b0d5ca03e4657fdbed845d85ab5aca0449248fd144545ecfb7"
+
+[[files]]
+file = "config/yosbr/config/clean-logs.toml"
+hash = "ffe2c3f7def4d1f171fdd985e728147fcfb1b740d16d5e2599a78d355671eb90"
+
+[[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "16622fc8dd895b01e07dc753744e79b1812b09f19b2b126e469b19337879d601"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "373885f3283136cdda5394b427f4058049ec9313ba7932be51426a572eb4b92e"
+
+[[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "0ea9f04d5f7c422738834856b80be2242c94148d7a9275df81bfe2f7f63dc7fe"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "24b34d315a51b23c0350fcfc7c9dabde9529ef6030d8d8d3059d8d48e712a490"
+
+[[files]]
+file = "config/yosbr/config/okzoomer.json5"
+hash = "e7e05a60ee978b45b069ec4f08c5ee98b21a33c6620f7af9946a2bdcaed297f5"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "4e04b2cbfc934ca072fabd2cd5da3f4177ccfdfecb64ca6d45e69d642daf9e68"
+
+[[files]]
+file = "config/yosbr/config/sodium-shadowy-path-blocks-options.json"
+hash = "46cee62ff2d65373ea5643966ea4624bb5a4eaf1fe599f068f7256666caf842d"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "e8a575f764b57d4177e7d76139732491c76107dc26721a8911036560d85be2ff"
+
+[[files]]
+file = "config/yosbr/resourcepacks/Mod Menu Resources.zip"
+hash = "8c2700286a929d6a26f200e1ba45f0407cfe9a84dece6cf45773c832f4b1cc93"
+
+[[files]]
+file = "config/yosbr/shaderpacks/Sildur's Vibrant Shaders v1.32 Lite.zip"
+hash = "c4f18cbb248d3b792fc902c21495a420b20f24a221bce44d98d49fdcabad387c"
+
+[[files]]
+file = "mods/advancements-debug.toml"
+hash = "6555916b5d601bdbc0e7f1feba7fc2c82447743963c00c5ebb5f40ca1606f143"
+metafile = true
+
+[[files]]
+file = "mods/animatica.toml"
+hash = "7dc077fb03dc42803ffd553726ec9b65f03aa254a206170b7cbd4e1be4427dab"
+metafile = true
+
+[[files]]
+file = "mods/better-fps-render-distance.toml"
+hash = "389eb4cc3d3342853881ce51a045ed429257ee36a07b637dbc7fef220e3c8825"
+metafile = true
+
+[[files]]
+file = "mods/capes.toml"
+hash = "a95e949723e71f98bf649883fa694950805f0431074e2716a4d769d3d2fddf9c"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.toml"
+hash = "30aa8e08b8206182bc3a1d4da8e73a8633b289f2c001f9edd2e92f61855d66fd"
+metafile = true
+
+[[files]]
+file = "mods/clean-logs-1.1.0-all.jar"
+hash = "d891e7b006b6789c8dbbed3cdd8b6a63ca551fbf065a7537a44cfe029a9a763a"
+
+[[files]]
+file = "mods/cloth-api.toml"
+hash = "0f325317ced484dc5fdd2e9b3d455223eed66c565c426ffd326468e472a951b1"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
+metafile = true
+
+[[files]]
+file = "mods/colormatic.toml"
+hash = "f37004ea1a77170a692e5f072bec6419c00b42b8fbd4803d189e01946f4eaa67"
+metafile = true
+
+[[files]]
+file = "mods/completeconfig.toml"
+hash = "3dc8afb222b72064fe76daa8f09d159f95f6d96cbfa9fe246b9d5ae87ae084ae"
+metafile = true
+
+[[files]]
+file = "mods/continuity.toml"
+hash = "a2503cd9f6455bcfd5b5d5d7d5f1350bc005e799918dca1e7d3203c5b67f9ae5"
+metafile = true
+
+[[files]]
+file = "mods/cull-leaves.toml"
+hash = "a6bd295330e16716d7ce62249c88e10f1d608982ed2d477f0592c6afa38f2290"
+metafile = true
+
+[[files]]
+file = "mods/cull-particles-fabric.toml"
+hash = "7da94bb7974a827005667729bd875d84125ab437ce5c52acfed1662b2daf527e"
+metafile = true
+
+[[files]]
+file = "mods/custom-entity-models-cem.toml"
+hash = "2c60cef285ee93b3188da4592b0067cb9d5dcd5ca8d1a9e70c0f2e25455ab7e1"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.toml"
+hash = "13013b1ab312945c0d4c1b008f0deb9193c010a161e161cc59642c185889abc6"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-block-entities.toml"
+hash = "5f96cbfa5842b2fa1977bed45bff4b2230a1608f34394ca75945fa65d8e555da"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.toml"
+hash = "ef022f83989bc40467264755f5864f6a2ab42a02edda3b9a400c0f4ad55d0896"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "e1d62926446ab5519d262d741f9f2f125488bc2048f38aced8d3e1ebec55fe1e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "7dd17b9b9514e5dbd19d536d82721b13d7590268a29825d732d4d332b16a5886"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.toml"
+hash = "328ab993a9721cd5a0a87b3aedaf45ad8fb86210b42daa5f04a544fcf1f52604"
+metafile = true
+
+[[files]]
+file = "mods/indium.toml"
+hash = "69d17da8431a798a73f8e238e9114ff96089449706a699c1f69e4561bbc0055c"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.toml"
+hash = "d1b796d25ba43d6b37218dcfdd5a88aaaead81028fe51dd40b9e4f1a9b731ecc"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "328a218231b95e91acfff1b841ab32b4039cb1bbfdc17f8357fabc01469d8cd2"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.toml"
+hash = "60c3a88c0c08c0b8e816613fd2aaae6cab5861bb65de3dc897de4fdd25cdded2"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.toml"
+hash = "f53ac074b0938319dc0ff805692993a9941beea49c3e86d7e0a42c3db1e64243"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "d469405ae3ba7e17c6603477e0c444914e48932ffca884f630b9ee459ffe0039"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "954032fd7697535870f901eb03abc1439e228de7bc598c7bde3073ad7f5bfeb5"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "86f5fc0b25c2d71a6ac6f07dcf0fd168a51b7d3604636d5cd75485835d465c3b"
+metafile = true
+
+[[files]]
+file = "mods/nicephore-fabric.toml"
+hash = "bf9eab0660b690705d0e152ad2cf9fb9a8d975ea8c1f6c2a3ec1789df034cdb9"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-crashes.toml"
+hash = "ac843deb7ea5718a1c736ce5e684e3bdb974dc398963d98edddcdf2a203e04ba"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.toml"
+hash = "f05c443fcccebf9623060065e2319a22f983234dc0d1a7ac1cd6883cd61e93fb"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.toml"
+hash = "b1ec378adef0a4d8fa1b27de650895dcab7d05e99515f02254ebd58dffa645d4"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot.toml"
+hash = "0bb8efa177ff2c5b54bb0bcbadf5e5fd2ae57c0cb71e533e7d8b896f12d9af4b"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.toml"
+hash = "a0d8ad1d13e07e1270248cb51712268b9ef27e6ab5e8ab16634cca9fa5e12ef0"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.toml"
+hash = "b8d9e954c821932d02632c8fc6319b8ba5ae67de96e1aa543b4d4e75ad536d22"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "629cba9c7cd4bfbb4f5be04e7d2ebfb71ef1c44466c7a1614b9c31b78b97f7a1"
+metafile = true
+
+[[files]]
+file = "mods/spark.toml"
+hash = "414a6f492bff8699a841a8cda9649a267d0937a99cc5be554186f9fb5ad16ed3"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "ed3ce42c6cccaa9989d3b7a8769bd4c0a9c643ccb2fdb7d41ef9604163e4a8e6"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.toml"
+hash = "527e21c9bc55b0d1db9016a2fec4ff2dee2a93c53edb8c1363d2d2ee7730afd0"
+metafile = true

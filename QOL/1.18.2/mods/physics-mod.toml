@@ -1,0 +1,13 @@
+name = "Physics Mod"
+filename = "physics-mod-2.6.7-mc-1.17.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3633/782/physics-mod-2.6.7-mc-1.17.1-fabric.jar"
+hash-format = "sha1"
+hash = "9a1f11936a574d74751de3983f43104010c9d297"
+
+[update]
+[update.curseforge]
+file-id = 3633782
+project-id = 442735
