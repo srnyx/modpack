@@ -137,8 +137,8 @@ file = "config/yosbr/shaderpacks/Sildurs Vibrant Shaders v1.29 Medium.zip"
 hash = "e8fbcd616f0a8d4f23d7bc26fb2c776780762c7b81ac853eaef30af42fcf18bc"
 
 [[files]]
-file = "mods/BetterPvPFairPlay_22.2.0.1_Fabric_1.17.1.jar"
-hash = "934c51a421e4784ccc8479a126941890ae6e10028cd0a661a0523e693d14dab5"
+file = "mods/BetterPvPFairPlay_22.3.0_Fabric_1.18.2.jar"
+hash = "174af135d68bb84f58f4611887d791d4a9906bfe43b9115ee7282f493ce8ddcf"
 
 [[files]]
 file = "mods/advancementinfo.toml"
@@ -148,11 +148,6 @@ metafile = true
 [[files]]
 file = "mods/advancements-debug.toml"
 hash = "6555916b5d601bdbc0e7f1feba7fc2c82447743963c00c5ebb5f40ca1606f143"
-metafile = true
-
-[[files]]
-file = "mods/animatica.toml"
-hash = "b4ffc7f1bd792f6d85e5f2738b984c4cb9568572548f462f1c572bf33f5c0f9f"
 metafile = true
 
 [[files]]
@@ -178,11 +173,6 @@ metafile = true
 [[files]]
 file = "mods/boosted-brightness.toml"
 hash = "0e0ce1d452c218b136c90bbba5124e34a44ad7a3e4cd867f67c5c8e5171b9e93"
-metafile = true
-
-[[files]]
-file = "mods/brb.toml"
-hash = "6ea7810d6eb8bfc57f1ea759283db8ec0383f9e71c06ac1dd92b00085cc3f172"
 metafile = true
 
 [[files]]
@@ -216,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "4d93ee92a854d9dd06bfaef9c4c9b498b8dee2dead2c22bcd52caab3616f9294"
+hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
 metafile = true
 
 [[files]]
@@ -250,11 +240,6 @@ hash = "a6bd295330e16716d7ce62249c88e10f1d608982ed2d477f0592c6afa38f2290"
 metafile = true
 
 [[files]]
-file = "mods/cull-particles-fabric.toml"
-hash = "7da94bb7974a827005667729bd875d84125ab437ce5c52acfed1662b2daf527e"
-metafile = true
-
-[[files]]
 file = "mods/custom-entity-models-cem.toml"
 hash = "2c60cef285ee93b3188da4592b0067cb9d5dcd5ca8d1a9e70c0f2e25455ab7e1"
 metafile = true
@@ -267,11 +252,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.toml"
 hash = "13013b1ab312945c0d4c1b008f0deb9193c010a161e161cc59642c185889abc6"
-metafile = true
-
-[[files]]
-file = "mods/effective.toml"
-hash = "2c26c2887be684096b1825663d5458680d263370618a22e0166bdd445c1d84c8"
 metafile = true
 
 [[files]]
@@ -295,11 +275,6 @@ hash = "ef022f83989bc40467264755f5864f6a2ab42a02edda3b9a400c0f4ad55d0896"
 metafile = true
 
 [[files]]
-file = "mods/essential-mod.toml"
-hash = "6ba2a5943a96ccdc483a855c3f21152837f25ae68c55da1fc522efa06a42316f"
-metafile = true
-
-[[files]]
 file = "mods/extrasounds.toml"
 hash = "9863cc3099e821d2feb9085faa3ba3b100591912a32f16bcfd678e710c6a6480"
 metafile = true
@@ -311,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "7dd17b9b9514e5dbd19d536d82721b13d7590268a29825d732d4d332b16a5886"
+hash = "49a6f4e20667f01f422dcf39caf3eda0ff710239089e0f4f0e542fbed89e3263"
 metafile = true
 
 [[files]]
@@ -331,17 +306,12 @@ metafile = true
 
 [[files]]
 file = "mods/forgetmechunk.toml"
-hash = "d778a0ef467acbf77f2b6a116541c94f14fa2000e4843ca2630d5a46ac6caf9f"
+hash = "157cf09e3f6a5a3df956c6a56ffee4dc50000b9bda935431eaa589d3ea87194b"
 metafile = true
 
 [[files]]
 file = "mods/grid.toml"
 hash = "828719efd3ace9a96b9f2efac59c2dd9e64787a3a4a30ac84acd2ae3b9201906"
-metafile = true
-
-[[files]]
-file = "mods/horsestatsvanilla.toml"
-hash = "20e61d95545123871c499653af88ced347bc9b3600294c14d313fe72eb8573bf"
 metafile = true
 
 [[files]]
@@ -376,27 +346,22 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.toml"
-hash = "60c3a88c0c08c0b8e816613fd2aaae6cab5861bb65de3dc897de4fdd25cdded2"
+hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.toml"
-hash = "f53ac074b0938319dc0ff805692993a9941beea49c3e86d7e0a42c3db1e64243"
+hash = "158c40f09b2ed4fe14f5f2925751796fe11f6baee7e1ac7f35931ad831631a3d"
 metafile = true
 
 [[files]]
 file = "mods/lazydfu.toml"
-hash = "d469405ae3ba7e17c6603477e0c444914e48932ffca884f630b9ee459ffe0039"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
 metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
 hash = "954032fd7697535870f901eb03abc1439e228de7bc598c7bde3073ad7f5bfeb5"
-metafile = true
-
-[[files]]
-file = "mods/loading-timer.toml"
-hash = "2fa3757c11034efb34d268af6c1d473a2ed5ca1eae14d776e3dde5517f81b665"
 metafile = true
 
 [[files]]
@@ -414,23 +379,18 @@ hash = "ea0f5b02b0ec99b0defe4f9b0ca8d9270a75142bea88752beb1ba5045c7708ee"
 metafile = true
 
 [[files]]
-file = "mods/mod-erate-loading-screen.toml"
-hash = "beb5fcd14212bae6d0c31d68878701f6a712a504e27803820353e8d302f506e1"
+file = "mods/moderate-loading-screen.toml"
+hash = "be4a9d8799226e332af757ab4c56a4dcefa1bf140a5160ab2f602e85558bdfbe"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "86f5fc0b25c2d71a6ac6f07dcf0fd168a51b7d3604636d5cd75485835d465c3b"
+hash = "6c8ae85a44ad6fbb5ad412073d3a32591e678fb70fb74d1aea525e9fdc15bcc7"
 metafile = true
 
 [[files]]
 file = "mods/nicephore-fabric.toml"
 hash = "bf9eab0660b690705d0e152ad2cf9fb9a8d975ea8c1f6c2a3ec1789df034cdb9"
-metafile = true
-
-[[files]]
-file = "mods/nochatlag.toml"
-hash = "25888ff1ffebaeefee38d03c3b29800b7963f68cc249acbd802f4796509f3d4f"
 metafile = true
 
 [[files]]
@@ -449,16 +409,6 @@ hash = "ac843deb7ea5718a1c736ce5e684e3bdb974dc398963d98edddcdf2a203e04ba"
 metafile = true
 
 [[files]]
-file = "mods/oauth-fabric.toml"
-hash = "c10baf6b12519a54e3be45f1de7e284e39ec6c48f75a25adc2c4223653050487"
-metafile = true
-
-[[files]]
-file = "mods/physics-mod.toml"
-hash = "c5a95ab41cf9905720d757805ed1aeff2ff5cc360a8841ed7de048733e2603e7"
-metafile = true
-
-[[files]]
 file = "mods/presence-footsteps.toml"
 hash = "46acb2de4a49ecabca2387ea6f4312acf43db567043dfe1a64a37c13461d198e"
 metafile = true
@@ -469,13 +419,8 @@ hash = "b1ec378adef0a4d8fa1b27de650895dcab7d05e99515f02254ebd58dffa645d4"
 metafile = true
 
 [[files]]
-file = "mods/replaymod-1.17.1-2.6.4.jar"
-hash = "c89a75ca17f68c9932ac20a7771916aaf1a1303ff22a161188372f5f017fe078"
-
-[[files]]
-file = "mods/respackautoupdater.toml"
-hash = "8d9491a104f57aed3812babf7db08b701ab90fa832e4dc061255f15d627de5a0"
-metafile = true
+file = "mods/replaymod-1.18.2-2.6.4.jar"
+hash = "26a008ca0ce7c352d9fad46f41adb896d0678ab5644e5cfa13ac436fb377ce7b"
 
 [[files]]
 file = "mods/respackopts.toml"
@@ -495,11 +440,6 @@ metafile = true
 [[files]]
 file = "mods/smooth-boot.toml"
 hash = "0bb8efa177ff2c5b54bb0bcbadf5e5fd2ae57c0cb71e533e7d8b896f12d9af4b"
-metafile = true
-
-[[files]]
-file = "mods/smooth-swapping.toml"
-hash = "85462913bfbb1cbbd9de0001909190ff3767ac4f4d97041eb5ee118cd3469a1d"
 metafile = true
 
 [[files]]
@@ -551,12 +491,7 @@ hash = "740dbc1993f6142ee7fe80f54b3b046344c22a8b224a20f876736fb076c346fd"
 
 [[files]]
 file = "mods/waveycapes.toml"
-hash = "f238bcdbbea0fa767800581e000f5861735c58db1cf50c8413aa70b1423530d9"
-metafile = true
-
-[[files]]
-file = "mods/whoami.toml"
-hash = "2956fed799a17ce5fd36b2c0a20fc2663ead8c7660f00a8101b645ed9e14edc9"
+hash = "bdd3950df8ef42f24fccf6733267fab6435649c2807dde6a2fb9e1a78fed7ffe"
 metafile = true
 
 [[files]]
