@@ -2,6 +2,11 @@
 :: DO NOT CHANGE ANYTHING IN THIS FILE UNLESS YOU KNOW WHAT YOU'RE DOING ::
 :: DO NOT CHANGE ANYTHING IN THIS FILE UNLESS YOU KNOW WHAT YOU'RE DOING ::
 
-call backend\get-latest.bat OO
+:: QOL or OO
+set /p type="[92mEnter type: [0m" 
 
-call "%~dp0backend\export.bat" true
+:: Game version
+set /p version="[92mEnter version: [0m"
+
+:: Go to "type/version" folder
+cd "../%type%/%version%"

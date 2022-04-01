@@ -2,4 +2,6 @@
 :: DO NOT CHANGE ANYTHING IN THIS FILE UNLESS YOU KNOW WHAT YOU'RE DOING ::
 :: DO NOT CHANGE ANYTHING IN THIS FILE UNLESS YOU KNOW WHAT YOU'RE DOING ::
 
-latest-export.bat "QOL"
+call backend\get-latest.bat QOL
+
+call "%~dp0backend\export.bat" true
