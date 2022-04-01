@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/background.png"
-hash = "c44d6709fc4fa880686abfecd7c7636ac51065ff0bc1961ed0f261f6a7b507aa"
+hash = "6b273e40db91760d57ec42ef9a6287e8d01d9f711225e44f08676e9b24e5df52"
 
 [[files]]
 file = "config/yosbr/config/betterfpsdist.json"
@@ -54,7 +54,7 @@ hash = "e8a575f764b57d4177e7d76139732491c76107dc26721a8911036560d85be2ff"
 
 [[files]]
 file = "config/yosbr/resourcepacks/Mod Menu Resources.zip"
-hash = "8c2700286a929d6a26f200e1ba45f0407cfe9a84dece6cf45773c832f4b1cc93"
+hash = "11c149cb7c88f00809aef9c048c0fdebe4500647d9178aa9e60e6bcea5aece5c"
 
 [[files]]
 file = "config/yosbr/shaderpacks/Sildur's Vibrant Shaders v1.32 Lite.zip"
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "86f5fc0b25c2d71a6ac6f07dcf0fd168a51b7d3604636d5cd75485835d465c3b"
+hash = "6c8ae85a44ad6fbb5ad412073d3a32591e678fb70fb74d1aea525e9fdc15bcc7"
 metafile = true
 
 [[files]]
