@@ -12,5 +12,5 @@
 * [LambdAurora](https://github.com/LambdAurora) for creating [the list of Optifine alternatives](https://lambdaurora.dev/optifine_alternatives) which the pack does get some mod ideas from
 * [comp500](https://github.com/comp500) for creating [packwiz](https://github.com/comp500/packwiz) (a tool that makes it a lot easier to create the modpack)
 * Mod devs that have joined my Discord and are discussing the modpack's development there
-* All developers who made the mods that are, have been and will be in the modpack
-* Everyone who uses, tests and shares the modpack!
+* All developers who made the mods that are, have been, and will be in the modpack
+* Everyone who uses, tests, and shares the modpack!
