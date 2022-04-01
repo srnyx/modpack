@@ -3,7 +3,7 @@
 ### Direct contributions
 
 * People creating pull requests for [the main project](https://github.com/srnyx/modpack/graphs/contributors) and [the wiki](https://github.com/srnyx/wiki/graphs/contributors)
-* [People who have created videos about the modpack](https://github.com/Fabulously-Optimized/fabulously-optimized#reviews)
+* [People who have created videos about the modpack](https://github.com/srnyx/modpack#reviews)
 * Everyone who has suggested ideas and reported bugs!
 
 ### Additional thanks
