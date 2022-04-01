@@ -19,6 +19,6 @@ None :(
 * [Discord](https://srnyx.xyz/discord)
 * [Issues](https://pack.srnyx.xyz/issues) (mod suggestions, bug reports, etc...)
 
-## Disclaimers
+## Disclaimer
 
-* The modpack has been set up to be compatible with the rules of most public third-party servers, but it is your responsibility to verify whether you are allowed to use it or not. By installing this modpack you agree that the the modpack author, the mod developers and Mojang provide no warranties for using this modpack, every action you do with it is your own.
+The modpack has been set up to be compatible with the rules of most public third-party servers, but it is your responsibility to verify whether you are allowed to use it or not. By installing this modpack you agree that the the modpack author, the mod developers and Mojang provide no warranties for using this modpack, every action you do with it is your own.
