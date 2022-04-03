@@ -11,7 +11,11 @@ cls
 :: Game version
 set options=
 for /f %%x in ('dir /A:D /B') do set options=!options! or %%x
-echo [32m%options:~4%
+echo [32m%options:~4% or latest
 set /p version="[92mMinecraft version: [0m"
-cd "%version%"
+if "%version%"=="latest" (
+	call %~dp0get-latest.bat %type%
+) else (
+	cd "%version%"
+)
 cls
