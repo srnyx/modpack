@@ -126,6 +126,11 @@ hash = "2c60cef285ee93b3188da4592b0067cb9d5dcd5ca8d1a9e70c0f2e25455ab7e1"
 metafile = true
 
 [[files]]
+file = "mods/debugify.toml"
+hash = "2c26b2a113f84b0754445a48394e0d9642bf230f9cc409ddc849533c3475b78f"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "13013b1ab312945c0d4c1b008f0deb9193c010a161e161cc59642c185889abc6"
 metafile = true

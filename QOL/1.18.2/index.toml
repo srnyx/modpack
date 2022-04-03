@@ -250,6 +250,11 @@ hash = "2c60cef285ee93b3188da4592b0067cb9d5dcd5ca8d1a9e70c0f2e25455ab7e1"
 metafile = true
 
 [[files]]
+file = "mods/debugify.toml"
+hash = "2c26b2a113f84b0754445a48394e0d9642bf230f9cc409ddc849533c3475b78f"
+metafile = true
+
+[[files]]
 file = "mods/dont-clear-chat-history.toml"
 hash = "c77ae8f60d73419f5e363d87b470a35c5b20958054e899846df9db9fb40ec7c5"
 metafile = true
@@ -307,11 +312,6 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.toml"
 hash = "328ab993a9721cd5a0a87b3aedaf45ad8fb86210b42daa5f04a544fcf1f52604"
-metafile = true
-
-[[files]]
-file = "mods/forgetmechunk.toml"
-hash = "157cf09e3f6a5a3df956c6a56ffee4dc50000b9bda935431eaa589d3ea87194b"
 metafile = true
 
 [[files]]
