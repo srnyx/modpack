@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yosbr/background.png"
-hash = "6b273e40db91760d57ec42ef9a6287e8d01d9f711225e44f08676e9b24e5df52"
-
-[[files]]
 file = "config/yosbr/config/betterfpsdist.json"
 hash = "4e2820ba0c16bd14e337ea3b6aeea0df47137544904de0af7b97e3fd469060ee"
 

@@ -118,7 +118,7 @@ hash = "eb571459e06c21b170d3a5dc45ee5b412da67d4a52b263bea0f1e879106d8964"
 
 [[files]]
 file = "config/yosbr/resourcepacks/Mod Menu Resources.zip"
-hash = "8c2700286a929d6a26f200e1ba45f0407cfe9a84dece6cf45773c832f4b1cc93"
+hash = "11c149cb7c88f00809aef9c048c0fdebe4500647d9178aa9e60e6bcea5aece5c"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryShaders_v4.1.zip"
@@ -148,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/advancements-debug.toml"
 hash = "6555916b5d601bdbc0e7f1feba7fc2c82447743963c00c5ebb5f40ca1606f143"
+metafile = true
+
+[[files]]
+file = "mods/animatica.toml"
+hash = "82f67c3bd5b9cda9d67e2f1702b8e4b504698ef2d5f96a417bfa80d8db1b4934"
 metafile = true
 
 [[files]]
