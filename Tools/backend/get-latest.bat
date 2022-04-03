@@ -4,8 +4,6 @@
 
 :: Set type
 set type=%1
-
-:: Go to type folder
 cd "../%type%"
 
 :: Get latest version
@@ -13,4 +11,4 @@ cd "../%type%"
 del versions.txt
 
 :: Go to "type/version" folder
-cd "../%type%/%version%"
+cd "%version%"
