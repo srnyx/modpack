@@ -23,7 +23,7 @@ body:
 - type: textarea
   attributes:
     label: Other links
-    description: Ex: GitHub. If the developer cannot or will not add it to CurseForge, you may also [request an exception on Curseforge](https://support.curseforge.com/en/support/solutions/articles/9000197913-non-curseforge-mods).
+    description: "Ex: GitHub. If the developer cannot or will not add it to CurseForge, you may also [request an exception on Curseforge](https://support.curseforge.com/en/support/solutions/articles/9000197913-non-curseforge-mods)."
   validations:
     required: false
 

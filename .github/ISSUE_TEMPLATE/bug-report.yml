@@ -45,7 +45,7 @@ body:
   attributes:
     label: Modpack version
     description: What version of the modpack are you using? Include QOL or OO too
-    placeholder: Latest is not a version. Ex: 2.0.0-qol
+    placeholder: "Ex: 2.0.0-qol (latest is not a version)"
   validations:
     required: true
 
