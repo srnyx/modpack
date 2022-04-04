@@ -12,7 +12,6 @@ if %1==true (
 	:: ZIP resourcepacks files
 	set backend=%~dp0
 	CScript !backend!zip.vbs "!backend!..\..\Mod Menu Resources" !pack!
-	echo.
 )
 
 :: Generate modrinth files

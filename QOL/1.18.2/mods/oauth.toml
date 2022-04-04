@@ -1,0 +1,13 @@
+name = "OAuth"
+filename = "oauth-fabric-1.0-1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K8pn1qHf/versions/1.0-1.17-fabric/oauth-fabric-1.0-1.17.1.jar"
+hash-format = "sha1"
+hash = "fac6d4557839b1b5f75b21b09964677d59cdb6ad"
+
+[update]
+[update.modrinth]
+mod-id = "K8pn1qHf"
+version = "1mOFVFS5"

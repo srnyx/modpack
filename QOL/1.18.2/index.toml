@@ -137,8 +137,8 @@ file = "config/yosbr/shaderpacks/Sildurs Vibrant Shaders v1.29 Medium.zip"
 hash = "e8fbcd616f0a8d4f23d7bc26fb2c776780762c7b81ac853eaef30af42fcf18bc"
 
 [[files]]
-file = "mods/BetterPvPFairPlay_22.3.0_Fabric_1.18.2.jar"
-hash = "174af135d68bb84f58f4611887d791d4a9906bfe43b9115ee7282f493ce8ddcf"
+file = "mods/BetterPvPFairPlay_22.4.0_Fabric_1.18.2.jar"
+hash = "cae6bfa99c4875ee188c7fb5a3bdcb161718441800df17ac0b116104953843bd"
 
 [[files]]
 file = "mods/advancementinfo.toml"
@@ -345,6 +345,11 @@ hash = "828719efd3ace9a96b9f2efac59c2dd9e64787a3a4a30ac84acd2ae3b9201906"
 metafile = true
 
 [[files]]
+file = "mods/horsestatsvanilla.toml"
+hash = "e346cf1bd046b9a465539a23f3e1dbe834df84f2430348e195b9b2dd8418289a"
+metafile = true
+
+[[files]]
 file = "mods/indium.toml"
 hash = "69d17da8431a798a73f8e238e9114ff96089449706a699c1f69e4561bbc0055c"
 metafile = true
@@ -429,6 +434,11 @@ hash = "bf9eab0660b690705d0e152ad2cf9fb9a8d975ea8c1f6c2a3ec1789df034cdb9"
 metafile = true
 
 [[files]]
+file = "mods/nochatlag.toml"
+hash = "1e56d99b21b5a42888fd37970efe0701ba375159824a434f4eb0bec41fa47791"
+metafile = true
+
+[[files]]
 file = "mods/nofog.toml"
 hash = "fcb77964f74c646ec734fdda0aeecd6e098f6966bd1d576ebab5a56057297a9d"
 metafile = true
@@ -441,6 +451,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-crashes.toml"
 hash = "ac843deb7ea5718a1c736ce5e684e3bdb974dc398963d98edddcdf2a203e04ba"
+metafile = true
+
+[[files]]
+file = "mods/oauth.toml"
+hash = "61ec3c117b8ad8a37b2f20fdef6393f0758b9c14f1f268415465039453982487"
 metafile = true
 
 [[files]]
