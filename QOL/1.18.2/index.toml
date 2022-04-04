@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "d51ef44b3ca26a54e55179de00ae4bd87e57b7404e8e9c6e683e122dd42b6959"
+hash = "2ed0458c1f09c92c401f0f36eeddb8fd893f7e66b461daa1d59ea436fb8d2316"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-attack-indicator.toml"
-hash = "63baa9318b7e3b6652eb6f3f2ca63fe89ef1cc6ad6283ac7670ecaa4e2b47229"
+hash = "2dd9cdebdbec5a479caa341b6054d873cdf69848140491af0dbbab711f6fbd0a"
 metafile = true
 
 [[files]]
@@ -479,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "4792e3e5855957d56f4c7a69c620c75b40140cfbaa13158c7f9efa442a5cae38"
+hash = "b81ff889fcce66d537eaeaaecd007e3f6ed62bd67f439da6cab676c2cf91331a"
 metafile = true
 
 [[files]]
@@ -503,7 +503,7 @@ hash = "490d06e2aa47812abc1da30670104e299952153bccbab3f189f6989de688e946"
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "a0d8ad1d13e07e1270248cb51712268b9ef27e6ab5e8ab16634cca9fa5e12ef0"
+hash = "ce30f904d04f28ccc48d443fbf07034c46a7491dce470c81fe343733073baff7"
 metafile = true
 
 [[files]]
@@ -518,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "mods/someordinarytweaks-fabric.toml"
-hash = "61b11fcb2c4f4633c05ddd445aa24203ceb83445f8fa1edcd01500fe2f7759f9"
+hash = "0fcf72a5680419ab17a51516c2fd62f515f179263a570a2c282e21c3c36cc935"
 metafile = true
 
 [[files]]

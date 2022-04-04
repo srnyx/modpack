@@ -1,13 +1,13 @@
 name = "Enhanced Attack Indicator"
-filename = "enhanced_attack_indicator-1.0.2+1.18.jar"
+filename = "enhanced_attack_indicator-1.0.3+1.18.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3555/753/enhanced_attack_indicator-1.0.2+1.18.jar"
+url = "https://edge.forgecdn.net/files/3728/272/enhanced_attack_indicator-1.0.3+1.18.jar"
 hash-format = "sha1"
-hash = "58db14fbeeeb7d9fe30172e70df6b800fdc3224c"
+hash = "cb6094acc0bdd3842ef1555c42f170fed755105d"
 
 [update]
 [update.curseforge]
-file-id = 3555753
+file-id = 3728272
 project-id = 446173

@@ -1,13 +1,13 @@
 name = "SomeOrdinaryTweaks (Fabric)"
-filename = "some-ordinary-tweaks-1.0.0.jar"
+filename = "some-ordinary-tweaks-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3538/348/some-ordinary-tweaks-1.0.0.jar"
+url = "https://edge.forgecdn.net/files/3577/546/some-ordinary-tweaks-1.1.0.jar"
 hash-format = "sha1"
-hash = "b78c7f8069d605eab38f6b20ed3022a98fb358df"
+hash = "4b16d65e94b9d268ecd5fa725e8504082ddce92c"
 
 [update]
 [update.curseforge]
-file-id = 3538348
+file-id = 3577546
 project-id = 550257
