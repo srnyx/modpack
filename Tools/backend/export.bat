@@ -2,6 +2,9 @@
 :: DO NOT CHANGE ANYTHING IN THIS FILE UNLESS YOU KNOW WHAT YOU'RE DOING ::
 :: DO NOT CHANGE ANYTHING IN THIS FILE UNLESS YOU KNOW WHAT YOU'RE DOING ::
 
+:: %backend%
+set backend=%~dp0
+
 :: Do latest version stuff (true if latest, false if specific)
 if %1==true (
 	:: Delete old resourcepack
@@ -10,24 +13,24 @@ if %1==true (
 	echo.
 	
 	:: ZIP resourcepacks files
-	set backend=%~dp0
-	CScript !backend!zip.vbs "!backend!..\..\Mod Menu Resources" !pack!
+	CScript %backend%zip.vbs "%backend%..\..\Mod Menu Resources" !pack!
 )
 
 :: Generate modrinth files
-packwiz modrinth export
+%backend%packwiz modrinth export
 echo.
 
 :: Generate CurseForge files
-packwiz curseforge export
+%backend%packwiz curseforge export
 echo.
 
 :: Delete old output folder
-set output="%~dp0..\output"
+set output="%backend%..\output"
 del /Q %output%
 echo.
 
-:: Move generated files to output folder
+:: Move generated files to a new output folder
+mkdir "%output%"
 move "srnyx's Modpack*.*" %output%
 echo.
 
