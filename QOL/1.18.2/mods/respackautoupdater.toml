@@ -1,0 +1,13 @@
+name = "ResPackAutoUpdater"
+filename = "AutoUpdater-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3549/139/AutoUpdater-1.0.1.jar"
+hash-format = "sha1"
+hash = "ac9089256f45087b53e96ae8d13bd19daff43873"
+
+[update]
+[update.curseforge]
+file-id = 3549139
+project-id = 552281

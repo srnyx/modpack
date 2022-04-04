@@ -1,0 +1,13 @@
+name = "SomeOrdinaryTweaks"
+filename = "some-ordinary-tweaks-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LNeXYJOg/versions/1.18.x/some-ordinary-tweaks-1.1.0.jar"
+hash-format = "sha1"
+hash = "4b16d65e94b9d268ecd5fa725e8504082ddce92c"
+
+[update]
+[update.modrinth]
+mod-id = "LNeXYJOg"
+version = "Rrc4bb3y"

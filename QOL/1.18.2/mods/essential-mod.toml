@@ -1,0 +1,13 @@
+name = "Essential Mod"
+filename = "Essential-fabric_1-18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3545/481/Essential-fabric_1-18.jar"
+hash-format = "sha1"
+hash = "86da0d031768630ff50c0efd2564edff106dc246"
+
+[update]
+[update.curseforge]
+file-id = 3545481
+project-id = 546670

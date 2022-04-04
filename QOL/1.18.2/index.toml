@@ -166,6 +166,11 @@ hash = "d51ef44b3ca26a54e55179de00ae4bd87e57b7404e8e9c6e683e122dd42b6959"
 metafile = true
 
 [[files]]
+file = "mods/better-recipe-book.toml"
+hash = "c21708926eeea2632e1f185a9637e2799a09b279edf8aadb4a340f7aa609849a"
+metafile = true
+
+[[files]]
 file = "mods/better-third-person.toml"
 hash = "e7fe2d45f9be250ca64b32e77f0c3e573bbd541cb51499f97ea89b729ca59d27"
 metafile = true
@@ -178,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/boosted-brightness.toml"
 hash = "0e0ce1d452c218b136c90bbba5124e34a44ad7a3e4cd867f67c5c8e5171b9e93"
+metafile = true
+
+[[files]]
+file = "mods/brb.toml"
+hash = "6a64fad084bf8ef066077aaa393c6b2b1e50d76860d589581d9cf62f392bb795"
 metafile = true
 
 [[files]]
@@ -245,6 +255,11 @@ hash = "a6bd295330e16716d7ce62249c88e10f1d608982ed2d477f0592c6afa38f2290"
 metafile = true
 
 [[files]]
+file = "mods/cull-particles-fabric.toml"
+hash = "7da94bb7974a827005667729bd875d84125ab437ce5c52acfed1662b2daf527e"
+metafile = true
+
+[[files]]
 file = "mods/custom-entity-models-cem.toml"
 hash = "2c60cef285ee93b3188da4592b0067cb9d5dcd5ca8d1a9e70c0f2e25455ab7e1"
 metafile = true
@@ -265,6 +280,11 @@ hash = "13013b1ab312945c0d4c1b008f0deb9193c010a161e161cc59642c185889abc6"
 metafile = true
 
 [[files]]
+file = "mods/effective.toml"
+hash = "f522788b47992c6ccb562e7d2afd5a61ee43f838bdb5a11a2906034a2dfaa6c3"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-attack-indicator.toml"
 hash = "63baa9318b7e3b6652eb6f3f2ca63fe89ef1cc6ad6283ac7670ecaa4e2b47229"
 metafile = true
@@ -282,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.toml"
 hash = "ef022f83989bc40467264755f5864f6a2ab42a02edda3b9a400c0f4ad55d0896"
+metafile = true
+
+[[files]]
+file = "mods/essential-mod.toml"
+hash = "9a1fdce0922f251caba7c79dbfa34e9cadbd851a1f272eaf19402523c9f50d12"
 metafile = true
 
 [[files]]
@@ -370,6 +395,11 @@ hash = "954032fd7697535870f901eb03abc1439e228de7bc598c7bde3073ad7f5bfeb5"
 metafile = true
 
 [[files]]
+file = "mods/loading-timer.toml"
+hash = "36d802afbff15c2e6848e4da11615df36f5e07f354545e53008b9c45fb02e288"
+metafile = true
+
+[[files]]
 file = "mods/malilib.toml"
 hash = "fd88ab8b23121cea2b1c7d05f2b7cbbe76b93ced03d6b98f0b212521ccb0ecb2"
 metafile = true
@@ -414,6 +444,16 @@ hash = "ac843deb7ea5718a1c736ce5e684e3bdb974dc398963d98edddcdf2a203e04ba"
 metafile = true
 
 [[files]]
+file = "mods/ordinarytweaks.toml"
+hash = "4a1aea0a5b75068765e11eea64d917c46656d5f50251ab24ba485016e57dab32"
+metafile = true
+
+[[files]]
+file = "mods/physics-mod.toml"
+hash = "699d77f87ac96534e7c89fca973daa8ee5dbaf5fde9bd5aff0fffc31bc777176"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.toml"
 hash = "46acb2de4a49ecabca2387ea6f4312acf43db567043dfe1a64a37c13461d198e"
 metafile = true
@@ -426,6 +466,11 @@ metafile = true
 [[files]]
 file = "mods/replaymod-1.18.2-2.6.4.jar"
 hash = "26a008ca0ce7c352d9fad46f41adb896d0678ab5644e5cfa13ac436fb377ce7b"
+
+[[files]]
+file = "mods/respackautoupdater.toml"
+hash = "8d9491a104f57aed3812babf7db08b701ab90fa832e4dc061255f15d627de5a0"
+metafile = true
 
 [[files]]
 file = "mods/respackopts.toml"
@@ -445,6 +490,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-boot.toml"
 hash = "0bb8efa177ff2c5b54bb0bcbadf5e5fd2ae57c0cb71e533e7d8b896f12d9af4b"
+metafile = true
+
+[[files]]
+file = "mods/smooth-swapping.toml"
+hash = "6da0c0e30c84d3d7d9e6b521830c6d5027f842cc9d93f9d96f069aff02922d62"
 metafile = true
 
 [[files]]
@@ -497,6 +547,11 @@ hash = "740dbc1993f6142ee7fe80f54b3b046344c22a8b224a20f876736fb076c346fd"
 [[files]]
 file = "mods/waveycapes.toml"
 hash = "bdd3950df8ef42f24fccf6733267fab6435649c2807dde6a2fb9e1a78fed7ffe"
+metafile = true
+
+[[files]]
+file = "mods/whoami.toml"
+hash = "2956fed799a17ce5fd36b2c0a20fc2663ead8c7660f00a8101b645ed9e14edc9"
 metafile = true
 
 [[files]]
