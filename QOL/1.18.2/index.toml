@@ -166,13 +166,8 @@ hash = "2ed0458c1f09c92c401f0f36eeddb8fd893f7e66b461daa1d59ea436fb8d2316"
 metafile = true
 
 [[files]]
-file = "mods/better-recipe-book.toml"
-hash = "c21708926eeea2632e1f185a9637e2799a09b279edf8aadb4a340f7aa609849a"
-metafile = true
-
-[[files]]
 file = "mods/better-third-person.toml"
-hash = "e7fe2d45f9be250ca64b32e77f0c3e573bbd541cb51499f97ea89b729ca59d27"
+hash = "6e59c2eb29c400238dab0db6e8e5cfbc9e34b0a34934142e094dcaf6dbcea811"
 metafile = true
 
 [[files]]
@@ -192,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.toml"
-hash = "a95e949723e71f98bf649883fa694950805f0431074e2716a4d769d3d2fddf9c"
+hash = "b5e992d432416b2948f6d441232da5e6169ea3093f895f01715ad5d9be32837e"
 metafile = true
 
 [[files]]
@@ -266,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "2c26b2a113f84b0754445a48394e0d9642bf230f9cc409ddc849533c3475b78f"
+hash = "db6effac052536441c04b053632e2b8c35a41bb89a4b7db809ee80f597d74b0d"
 metafile = true
 
 [[files]]
@@ -281,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/effective.toml"
-hash = "f522788b47992c6ccb562e7d2afd5a61ee43f838bdb5a11a2906034a2dfaa6c3"
+hash = "b4ad5be545658ef1264aaef1b1e4376a2c8425d36d95f537395fbb4788dd33a7"
 metafile = true
 
 [[files]]
@@ -321,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "49a6f4e20667f01f422dcf39caf3eda0ff710239089e0f4f0e542fbed89e3263"
+hash = "738ffde3eab8e9d0c616e419862ff9c588bbd6009fad70953bd4d4697c88f202"
 metafile = true
 
 [[files]]
@@ -337,6 +332,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.toml"
 hash = "328ab993a9721cd5a0a87b3aedaf45ad8fb86210b42daa5f04a544fcf1f52604"
+metafile = true
+
+[[files]]
+file = "mods/forgetmechunk.toml"
+hash = "157cf09e3f6a5a3df956c6a56ffee4dc50000b9bda935431eaa589d3ea87194b"
 metafile = true
 
 [[files]]
@@ -419,7 +419,7 @@ hash = "ea0f5b02b0ec99b0defe4f9b0ca8d9270a75142bea88752beb1ba5045c7708ee"
 metafile = true
 
 [[files]]
-file = "mods/moderate-loading-screen.toml"
+file = "mods/mod-erate-loading-screen.toml"
 hash = "be4a9d8799226e332af757ab4c56a4dcefa1bf140a5160ab2f602e85558bdfbe"
 metafile = true
 
@@ -440,12 +440,12 @@ metafile = true
 
 [[files]]
 file = "mods/nofog.toml"
-hash = "fcb77964f74c646ec734fdda0aeecd6e098f6966bd1d576ebab5a56057297a9d"
+hash = "0a35c052850da1b1f1c27961a72a80ffa8f230875516606a8c219240142a7352"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.toml"
-hash = "85d531d48c0257a3c042ea94a93939e33a570f89c08d3ad90cabdd600a20e59f"
+hash = "0b27e2f0c72ad7e7aad9a83bd7dc18b0c4771304b6834f4d115cc239724334c6"
 metafile = true
 
 [[files]]
@@ -454,13 +454,8 @@ hash = "ac843deb7ea5718a1c736ce5e684e3bdb974dc398963d98edddcdf2a203e04ba"
 metafile = true
 
 [[files]]
-file = "mods/oauth.toml"
+file = "mods/oauth-fabric.toml"
 hash = "61ec3c117b8ad8a37b2f20fdef6393f0758b9c14f1f268415465039453982487"
-metafile = true
-
-[[files]]
-file = "mods/ordinarytweaks.toml"
-hash = "4a1aea0a5b75068765e11eea64d917c46656d5f50251ab24ba485016e57dab32"
 metafile = true
 
 [[files]]
@@ -489,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/respackopts.toml"
-hash = "e18cff1f4c16a59304f0d4cea4379aa10e0b8672783c41e91768a0041e432a56"
+hash = "1d28ef343989d72b34d147d891095a6bcc735bc579bc01869c85859e38bfdd76"
 metafile = true
 
 [[files]]
@@ -533,7 +528,7 @@ metafile = true
 
 [[files]]
 file = "mods/someordinarytweaks-fabric.toml"
-hash = "0fcf72a5680419ab17a51516c2fd62f515f179263a570a2c282e21c3c36cc935"
+hash = "4a1aea0a5b75068765e11eea64d917c46656d5f50251ab24ba485016e57dab32"
 metafile = true
 
 [[files]]

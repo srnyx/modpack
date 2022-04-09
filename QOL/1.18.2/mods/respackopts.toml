@@ -1,13 +1,13 @@
 name = "Respackopts"
-filename = "respackopts-2.10.0.jar"
+filename = "respackopts-2.10.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3667/572/respackopts-2.10.0.jar"
+url = "https://edge.forgecdn.net/files/3735/318/respackopts-2.10.1.jar"
 hash-format = "sha1"
-hash = "381cd0d6c76ca16c60e3e16a96cd6170dded0273"
+hash = "05700184aad7ffca0a834d33e7194874b7af346a"
 
 [update]
 [update.curseforge]
-file-id = 3667572
+file-id = 3735318
 project-id = 430090
