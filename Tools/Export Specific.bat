@@ -5,6 +5,7 @@
 call backend\settings.bat
 setlocal EnableDelayedExpansion
 
-call backend\get-latest.bat QOL
+:: Selection for the modpack type and version
+call backend\specific.bat --version
 
-call "%~dp0backend\export.bat" true
+call "%~dp0backend\export.bat"

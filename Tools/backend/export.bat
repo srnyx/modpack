@@ -6,13 +6,14 @@
 set backend=%~dp0
 
 :: Do latest version stuff (true if latest, false if specific)
-if %1==true (
-	:: Delete old resourcepack
+if %1==--latest (
+	:: %pack%
 	set pack="config\yosbr\resourcepacks\Mod Menu Resources.zip"
+
+	:: Delete old resourcepack
 	del !pack!
-	echo.
 	
-	:: ZIP resourcepacks files
+	:: ZIP resourcepack files
 	CScript %backend%zip.vbs "%backend%..\..\Mod Menu Resources" !pack!
 )
 
@@ -25,7 +26,7 @@ echo.
 echo.
 
 :: Delete old output folder
-set output="%backend%..\output"
+set output="%backend%..\_output"
 del /Q %output%
 echo.
 
