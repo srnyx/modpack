@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.toml"
-hash = "a95e949723e71f98bf649883fa694950805f0431074e2716a4d769d3d2fddf9c"
+hash = "b5e992d432416b2948f6d441232da5e6169ea3093f895f01715ad5d9be32837e"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "2c26b2a113f84b0754445a48394e0d9642bf230f9cc409ddc849533c3475b78f"
+hash = "db6effac052536441c04b053632e2b8c35a41bb89a4b7db809ee80f597d74b0d"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "7dd17b9b9514e5dbd19d536d82721b13d7590268a29825d732d4d332b16a5886"
+hash = "2c283319aebf853500c3057142e54ce91ae50170a161de46489a266f57f46f63"
 metafile = true
 
 [[files]]
