@@ -29,6 +29,7 @@
   "modmenu.summaryTranslation.cullparticles": "Hides particles you can't see\n§8✎ (no options)",
   "modmenu.summaryTranslation.cem": "OptiFine's custom entities (alpha)\n§a✎§8 OptiFine support, model fix",
   "modmenu.summaryTranslation.dcch": "Keep typed history across worlds\n§8✎ (no options)",
+  "modmenu.summaryTranslation.debugify": "Fixes a bunch of MC bugs (alpha)\n§a✎§8 Toggle fixes, auto-updater, ...",
   "modmenu.summaryTranslation.dynamicfps": "Reduce FPS in the background\n§a✎§8 Toggle mod, restore on hover, ...",
   "modmenu.summaryTranslation.effective": "Adds aesthetic water effects\n§8✎ (no options)",
   "modmenu.summaryTranslation.enhanced_attack_indicator": "More uses for attack indicator\n§a✎§8 Block breaking, cooldowns, ...",
