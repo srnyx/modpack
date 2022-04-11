@@ -30,7 +30,7 @@ set output="%backend%..\_output"
 del /Q %output%
 echo.
 
-:: Move generated files to a new output folder
+:: Move generated files to the new output folder
 mkdir "%output%"
 move "srnyx's Modpack*.*" %output%
 echo.

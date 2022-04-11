@@ -5,19 +5,14 @@
 ' Get command-line arguments.
 Set objArgs = WScript.Arguments
 Set FS = CreateObject("Scripting.FileSystemObject")
-InputFolder = FS.GetAbsolutePathName(objArgs(0))
 ZipFile = FS.GetAbsolutePathName(objArgs(1))
 
-' Create an empty ZIP file.
+' Create an empty ZIP.
 CreateObject("Scripting.FileSystemObject").CreateTextFile(ZipFile, True).Write "PK" & Chr(5) & Chr(6) & String(18, vbNullChar)
 
+' Copy files into empty ZIP.
 Set objShell = CreateObject("Shell.Application")
+objShell.NameSpace(ZipFile).CopyHere(objShell.NameSpace(FS.GetAbsolutePathName(objArgs(0))).Items)
 
-Set source = objShell.NameSpace(InputFolder).Items
-
-objShell.NameSpace(ZipFile).CopyHere(source)
-
-' Required to let the ZIP command execute
-' If this script randomly fails or the ZIP file is not complete,
-' just increase to more than 2 seconds
+' If the script randomly fails or the ZIP file is not complete, increase this to more than 2 seconds (2000).
 wScript.Sleep 2000
