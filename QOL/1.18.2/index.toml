@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "f7b6fff3b0f2260f4bb3c6971a3c15e48ec2fcd449658a3c44b8a011580e230c"
+hash = "268d4d36bbd99f74b43da5ac689afe72d270b94295d5a8a3dd1a4d260e3a9f48"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "db6effac052536441c04b053632e2b8c35a41bb89a4b7db809ee80f597d74b0d"
+hash = "ec3edbb3143e1f8bad90555ba232f3f98710de8cdb8dcf41ed61e8f03111fd88"
 metafile = true
 
 [[files]]
@@ -400,11 +400,6 @@ hash = "954032fd7697535870f901eb03abc1439e228de7bc598c7bde3073ad7f5bfeb5"
 metafile = true
 
 [[files]]
-file = "mods/loading-timer.toml"
-hash = "36d802afbff15c2e6848e4da11615df36f5e07f354545e53008b9c45fb02e288"
-metafile = true
-
-[[files]]
 file = "mods/malilib.toml"
 hash = "fd88ab8b23121cea2b1c7d05f2b7cbbe76b93ced03d6b98f0b212521ccb0ecb2"
 metafile = true
@@ -450,12 +445,12 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "ac843deb7ea5718a1c736ce5e684e3bdb974dc398963d98edddcdf2a203e04ba"
+hash = "2c4f0a654ca70e630890aaea871a1ec3d6255dcc2bf4c7853da93dd234ad95cd"
 metafile = true
 
 [[files]]
 file = "mods/oauth-fabric.toml"
-hash = "61ec3c117b8ad8a37b2f20fdef6393f0758b9c14f1f268415465039453982487"
+hash = "6d91e8719d3f55c7b4c416bb3855d39c511b56118489f761e1928f9b0831bdd1"
 metafile = true
 
 [[files]]
@@ -489,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "b81ff889fcce66d537eaeaaecd007e3f6ed62bd67f439da6cab676c2cf91331a"
+hash = "8e0e08747ecbbe0baf49f9337b35ac8fb981b45f4399c77bddfdd6c3fb617856"
 metafile = true
 
 [[files]]

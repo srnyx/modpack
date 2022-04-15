@@ -1,13 +1,13 @@
-name = "OAuth"
-filename = "oauth-fabric-1.0-1.17.1.jar"
+name = "OAuth [Fabric]"
+filename = "oauth-fabric-1.1.4.1-1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/K8pn1qHf/versions/1.0-1.17-fabric/oauth-fabric-1.0-1.17.1.jar"
+url = "https://edge.forgecdn.net/files/3739/764/oauth-fabric-1.1.4.1-1.18.2.jar"
 hash-format = "sha1"
-hash = "fac6d4557839b1b5f75b21b09964677d59cdb6ad"
+hash = "39a933a95dd3866de542bc6e614c2b091878fd7a"
 
 [update]
-[update.modrinth]
-mod-id = "K8pn1qHf"
-version = "1mOFVFS5"
+[update.curseforge]
+file-id = 3739764
+project-id = 515054
