@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "268d4d36bbd99f74b43da5ac689afe72d270b94295d5a8a3dd1a4d260e3a9f48"
+hash = "b3210d076a941ada34c6e39d1a10c5b7f43ad614b40256f9910d4c14e7e506b3"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.toml"
-hash = "8cdcf889900d23a3a8b813a70c040fb0a6a17477c6d3b04f748eadd942f676db"
+hash = "856583ed59b9853f04a69db0e4c376cad017e83240962a2e8d0d58dfe20df78d"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "ec3edbb3143e1f8bad90555ba232f3f98710de8cdb8dcf41ed61e8f03111fd88"
+hash = "5dbb4d2a2f4d20ecaddd7ea8b31c48e7e9c8694ac4b8d1ffe0e92a76c0718c67"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "b9598f1fae8ca026d737768ef3812f157c568ba86f2f780704ddb995fdec3502"
+hash = "99fb566fe03abc87d64b6b541cbe225fa856d15c1ef7a6d4de85e6b6fb0c14e8"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "2c4f0a654ca70e630890aaea871a1ec3d6255dcc2bf4c7853da93dd234ad95cd"
+hash = "3b8c2cec272a08fce467e51a52e9125d070dcdc1fc4ffc0bf7cf9b0b23e2a319"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/physics-mod.toml"
-hash = "699d77f87ac96534e7c89fca973daa8ee5dbaf5fde9bd5aff0fffc31bc777176"
+hash = "3eae316358d00849a9b387157a6d2ec7147137a98146c4e8252c7f6393ae8b86"
 metafile = true
 
 [[files]]
@@ -484,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "8e0e08747ecbbe0baf49f9337b35ac8fb981b45f4399c77bddfdd6c3fb617856"
+hash = "2f8a7374fb90d53f3b6bda40655982fb35e791e1aa272156159290cad632051f"
 metafile = true
 
 [[files]]
@@ -538,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/status-effect-timer.toml"
-hash = "ad3e81701a0b1b88e69309e16cde56c40ff028e6dfb63c67778b56166da44f64"
+hash = "e9b2aff2cb6975b41eced9bf75c454c732f221d07034aa3f7dbc17fcd398a816"
 metafile = true
 
 [[files]]
