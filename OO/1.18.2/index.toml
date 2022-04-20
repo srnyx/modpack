@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "db6effac052536441c04b053632e2b8c35a41bb89a4b7db809ee80f597d74b0d"
+hash = "5dbb4d2a2f4d20ecaddd7ea8b31c48e7e9c8694ac4b8d1ffe0e92a76c0718c67"
 metafile = true
 
 [[files]]
@@ -147,12 +147,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "b9598f1fae8ca026d737768ef3812f157c568ba86f2f780704ddb995fdec3502"
+hash = "99fb566fe03abc87d64b6b541cbe225fa856d15c1ef7a6d4de85e6b6fb0c14e8"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "2c283319aebf853500c3057142e54ce91ae50170a161de46489a266f57f46f63"
+hash = "01175385fc41a95afdfe7c988c697be564bd94aabb684b764b411c700bee81dc"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "ac843deb7ea5718a1c736ce5e684e3bdb974dc398963d98edddcdf2a203e04ba"
+hash = "3b8c2cec272a08fce467e51a52e9125d070dcdc1fc4ffc0bf7cf9b0b23e2a319"
 metafile = true
 
 [[files]]
