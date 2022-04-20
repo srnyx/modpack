@@ -7,7 +7,7 @@ setlocal EnableDelayedExpansion
 :: type and version
 :type
 cd %~dp0
-call backend\selection.bat --version
+call backend\selection.bat
 
 :: %action%
 :action

@@ -2,11 +2,16 @@
 :: DO NOT CHANGE ANYTHING IN THIS FILE UNLESS YOU KNOW WHAT YOU'RE DOING ::
 :: DO NOT CHANGE ANYTHING IN THIS FILE UNLESS YOU KNOW WHAT YOU'RE DOING ::
 
-:: %backend%
-set backend=%~dp0
+setlocal EnableDelayedExpansion
 
-:: Do latest version stuff (true if latest, false if specific)
-if %1==--latest (
+:: Selection for the modpack type and version
+call backend\selection.bat
+
+:: %backend%
+set backend=%~dp0backend
+
+:: Do latest version stuff
+if "%original%"=="latest" (
 	:: %pack%
 	set pack="config\yosbr\resourcepacks\Mod Menu Resources.zip"
 
@@ -14,27 +19,26 @@ if %1==--latest (
 	del !pack!
 	
 	:: ZIP resourcepack files
-	CScript %backend%zip.vbs "%backend%..\..\Mod Menu Resources" !pack!
+	echo [92m--- Zipping Resourcepack ---[32m
+	CScript %backend%\zip.vbs "%backend%\..\..\Mod Menu Resources" !pack!
 )
 
 :: Generate modrinth files
-%backend%packwiz modrinth export
+echo [92m--- Modrinth Export ---[32m
+%backend%\packwiz modrinth export
 echo.
 
 :: Generate CurseForge files
-%backend%packwiz curseforge export
-echo.
+echo [92m--- CurseForge Export ---[32m
+%backend%\packwiz curseforge export
 
 :: Delete old output folder
-set output="%backend%..\_output"
+set output="%backend%\..\_output"
 del /Q %output%
-echo.
 
 :: Move generated files to the new output folder
 mkdir "%output%"
 move "srnyx's Modpack*.*" %output%
-echo.
 
 :: Open output folder
 explorer %output%
-echo.
