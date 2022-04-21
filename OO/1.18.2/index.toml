@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "5dbb4d2a2f4d20ecaddd7ea8b31c48e7e9c8694ac4b8d1ffe0e92a76c0718c67"
+hash = "765c0266e2e6ec1e6a7e5790729f7af0f1fdef205d284d68c3a737ad84bd088a"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "e14ec21802432c7da8fd1746c3704d4cc86a66685ae3d32c0fce88b6a7a15818"
+hash = "2c70ac84c0b9feb5c5d42543be5612770da38debac874f48cebb5e0433afba89"
 metafile = true
 
 [[files]]

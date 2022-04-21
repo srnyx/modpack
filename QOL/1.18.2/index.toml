@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/animatica.toml"
-hash = "82f67c3bd5b9cda9d67e2f1702b8e4b504698ef2d5f96a417bfa80d8db1b4934"
+hash = "4434f950f298b99f19434496a998c0a46951e9a025e07c5c7000b6fdf52b5f20"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/brb.toml"
-hash = "6a64fad084bf8ef066077aaa393c6b2b1e50d76860d589581d9cf62f392bb795"
+hash = "d0019260b4b693fc227fef0a752dbc1e5ec5f9f6e3baf1f70218b8930793581f"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "5dbb4d2a2f4d20ecaddd7ea8b31c48e7e9c8694ac4b8d1ffe0e92a76c0718c67"
+hash = "765c0266e2e6ec1e6a7e5790729f7af0f1fdef205d284d68c3a737ad84bd088a"
 metafile = true
 
 [[files]]
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "738ffde3eab8e9d0c616e419862ff9c588bbd6009fad70953bd4d4697c88f202"
+hash = "01175385fc41a95afdfe7c988c697be564bd94aabb684b764b411c700bee81dc"
 metafile = true
 
 [[files]]
@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgetmechunk.toml"
-hash = "157cf09e3f6a5a3df956c6a56ffee4dc50000b9bda935431eaa589d3ea87194b"
+hash = "06cb28b6ded5b429fda6f236758fa8787fde526f6b2fc83d2af085c642bcaacc"
 metafile = true
 
 [[files]]
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/horsestatsvanilla.toml"
-hash = "e346cf1bd046b9a465539a23f3e1dbe834df84f2430348e195b9b2dd8418289a"
+hash = "d516293a88d9507ed822e140c94f1b2f17cbe34954aa4063046590278728df9f"
 metafile = true
 
 [[files]]
@@ -381,17 +381,17 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.toml"
-hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
+hash = "60c3a88c0c08c0b8e816613fd2aaae6cab5861bb65de3dc897de4fdd25cdded2"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.toml"
-hash = "158c40f09b2ed4fe14f5f2925751796fe11f6baee7e1ac7f35931ad831631a3d"
+hash = "f53ac074b0938319dc0ff805692993a9941beea49c3e86d7e0a42c3db1e64243"
 metafile = true
 
 [[files]]
 file = "mods/lazydfu.toml"
-hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+hash = "d469405ae3ba7e17c6603477e0c444914e48932ffca884f630b9ee459ffe0039"
 metafile = true
 
 [[files]]
@@ -415,12 +415,12 @@ metafile = true
 
 [[files]]
 file = "mods/mod-erate-loading-screen.toml"
-hash = "be4a9d8799226e332af757ab4c56a4dcefa1bf140a5160ab2f602e85558bdfbe"
+hash = "beb5fcd14212bae6d0c31d68878701f6a712a504e27803820353e8d302f506e1"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "e14ec21802432c7da8fd1746c3704d4cc86a66685ae3d32c0fce88b6a7a15818"
+hash = "2c70ac84c0b9feb5c5d42543be5612770da38debac874f48cebb5e0433afba89"
 metafile = true
 
 [[files]]
@@ -430,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/nochatlag.toml"
-hash = "1e56d99b21b5a42888fd37970efe0701ba375159824a434f4eb0bec41fa47791"
+hash = "25888ff1ffebaeefee38d03c3b29800b7963f68cc249acbd802f4796509f3d4f"
 metafile = true
 
 [[files]]
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-swapping.toml"
-hash = "6da0c0e30c84d3d7d9e6b521830c6d5027f842cc9d93f9d96f069aff02922d62"
+hash = "ec1036eda0d8c1913176735ecf473e4895dd1310c651bb1c05a104c39d03ae2c"
 metafile = true
 
 [[files]]
@@ -523,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/someordinarytweaks-fabric.toml"
-hash = "4a1aea0a5b75068765e11eea64d917c46656d5f50251ab24ba485016e57dab32"
+hash = "0fcf72a5680419ab17a51516c2fd62f515f179263a570a2c282e21c3c36cc935"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
-name = "Horse Stats Vanilla"
+name = "Horse Stats Vanilla (Fabric)"
 filename = "horse-stats-vanilla-4.1.10.jar"
-side = "client"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/l4qoXLzx/versions/4.1.10/horse-stats-vanilla-4.1.10.jar"
+url = "https://edge.forgecdn.net/files/3551/503/horse-stats-vanilla-4.1.10.jar"
 hash-format = "sha1"
 hash = "e97f794981653c11c1c43a738aed20438b1e5ae1"
 
 [update]
-[update.modrinth]
-mod-id = "l4qoXLzx"
-version = "jfQfoNQx"
+[update.curseforge]
+file-id = 3551503
+project-id = 351393
