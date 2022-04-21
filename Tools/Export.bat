@@ -24,11 +24,13 @@ if "%original%"=="latest" (
 )
 
 :: Generate modrinth files
+del "srnyx's Modpack-*.mrpack"
 echo [92m--- Modrinth Export ---[32m
 %backend%\packwiz modrinth export
 echo.
 
 :: Generate CurseForge files
+del "srnyx's Modpack-*.zip"
 echo [92m--- CurseForge Export ---[32m
 %backend%\packwiz curseforge export
 
