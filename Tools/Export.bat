@@ -7,6 +7,11 @@ setlocal EnableDelayedExpansion
 :: Selection for the modpack type and version
 call backend\selection.bat
 
+:: Delete export files that failed to move to output folder
+del "srnyx's Modpack-*.mrpack"
+del "srnyx's Modpack-*.zip"
+cls
+
 :: %backend%
 set backend=%~dp0backend
 
@@ -24,21 +29,25 @@ if "%original%"=="latest" (
 )
 
 :: Generate modrinth files
-del "srnyx's Modpack-*.mrpack"
 echo [92m--- Modrinth Export ---[32m
 %backend%\packwiz modrinth export
 echo.
 
 :: Generate CurseForge files
-del "srnyx's Modpack-*.zip"
 echo [92m--- CurseForge Export ---[32m
 %backend%\packwiz curseforge export
+echo.
+
+:: %output%
+set output="%backend%\..\_output"
 
 :: Delete old output folder
-set output="%backend%\..\_output"
-del /Q %output%
+if exist "%output%" (
+	rd /Q /S %output%
+)
 
 :: Move generated files to the new output folder
+echo [92m--- Move to output folder ---[32m
 mkdir "%output%"
 move "srnyx's Modpack*.*" %output%
 
