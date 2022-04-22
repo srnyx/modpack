@@ -44,6 +44,7 @@
 	"fabric-permissions-api-v0",
 	"crowdin-translate",
 	"gbfabrictools",
-	"caffeineconfig"
+	"caffeineconfig",
+	"citresewn-defaults"
   ]
 }

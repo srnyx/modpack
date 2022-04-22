@@ -30,7 +30,7 @@ hash = "0ea9f04d5f7c422738834856b80be2242c94148d7a9275df81bfe2f7f63dc7fe"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "24b34d315a51b23c0350fcfc7c9dabde9529ef6030d8d8d3059d8d48e712a490"
+hash = "d6851b9bced8aa034a9dae63f4e083dd1a05bd297069cb06a68a3701dc2b7902"
 
 [[files]]
 file = "config/yosbr/config/okzoomer.json5"
@@ -46,11 +46,11 @@ hash = "46cee62ff2d65373ea5643966ea4624bb5a4eaf1fe599f068f7256666caf842d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "e8a575f764b57d4177e7d76139732491c76107dc26721a8911036560d85be2ff"
+hash = "d2885dfe64954291f4030fe53af2e04494cc0dae43ca8fe7131b54483a28f74d"
 
 [[files]]
 file = "config/yosbr/resourcepacks/Mod Menu Resources.zip"
-hash = "63ae47b4874e7f44fe90919e5c5767f9416cde728b096c830727fc0fe040a7b6"
+hash = "13ad04a03c9df432dc5d67a74d45bae905d69c9bcc9cea2d96b3b85367a01df4"
 
 [[files]]
 file = "config/yosbr/shaderpacks/Sildur's Vibrant Shaders v1.32 Lite.zip"

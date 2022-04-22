@@ -78,7 +78,7 @@ hash = "e50c1506e989f4ce351c8137a17be0e0faa81f2cf0b703177401075e201d7baf"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "04139d6f5791ae437878078bc45f6927548c9da84ae9855c275b6a4db7232dd8"
+hash = "92a192ef94477a340829ca38dcd7542ef3ae841a55d5367c59e0cf1cbc77ad59"
 
 [[files]]
 file = "config/yosbr/config/nicephore.json"
@@ -114,11 +114,11 @@ hash = "4087a918d40ddf9f405c111b5c53f4ca852892c533a3f1d35839c3b0baed13ac"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "eb571459e06c21b170d3a5dc45ee5b412da67d4a52b263bea0f1e879106d8964"
+hash = "b876e4f5b4d982ad9a68b6f5b0a19b9f936d2891f75f586f396a2c1aa16d7ba5"
 
 [[files]]
 file = "config/yosbr/resourcepacks/Mod Menu Resources.zip"
-hash = "63ae47b4874e7f44fe90919e5c5767f9416cde728b096c830727fc0fe040a7b6"
+hash = "190d411eae8a0618e253aa23813b7dcc552bd995fcdccd6502ea8832244e7658"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryShaders_v4.1.zip"
@@ -137,8 +137,8 @@ file = "config/yosbr/shaderpacks/Sildurs Vibrant Shaders v1.29 Medium.zip"
 hash = "e8fbcd616f0a8d4f23d7bc26fb2c776780762c7b81ac853eaef30af42fcf18bc"
 
 [[files]]
-file = "mods/BetterPvPFairPlay_22.4.0_Fabric_1.18.2.jar"
-hash = "cae6bfa99c4875ee188c7fb5a3bdcb161718441800df17ac0b116104953843bd"
+file = "mods/BetterPvPFairPlay_22.4.1_Fabric_1.18.2.jar"
+hash = "4e8029054b2fe5d7b1a3126ec7a07ee14f7f2e261527c1dd9aca58ee035a4d8a"
 
 [[files]]
 file = "mods/advancementinfo.toml"
@@ -332,11 +332,6 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.toml"
 hash = "328ab993a9721cd5a0a87b3aedaf45ad8fb86210b42daa5f04a544fcf1f52604"
-metafile = true
-
-[[files]]
-file = "mods/forgetmechunk.toml"
-hash = "06cb28b6ded5b429fda6f236758fa8787fde526f6b2fc83d2af085c642bcaacc"
 metafile = true
 
 [[files]]

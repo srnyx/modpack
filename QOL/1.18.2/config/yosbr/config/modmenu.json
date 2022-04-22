@@ -35,7 +35,16 @@
 	"cloth-basic-math",
 	"pride",
 	"soundcategories",
-	"caffeineconfig"
+	"caffeineconfig",
+	"citresewn-defaults",
+	"architectury",
+	"autoconfig1u",
+	"fabric-permissions-api-v0",
+	"jankson",
+	"kirin",
+	"mm",
+	"quilted-fabric-command-api-v1",
+	"quilted-fabric-lifecycle-events-v1"
   ],
   "log_deprecation_warnings": true
 }

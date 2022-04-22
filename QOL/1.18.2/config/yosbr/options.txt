@@ -34,8 +34,7 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:7
 renderClouds:false
-resourcePacks:["vanilla","file/Mod Menu Resources.zip"]
-incompatibleResourcePacks:["replaymod_lang"]
+resourcePacks:["vanilla","Fabric Mods","cullleaves/smartleaves","continuity/default","continuity/glass_pane_culling_fix","file/Mod Menu Resources.zip"]
 lang:en_us
 chatVisibility:0
 chatOpacity:0.9483568075117372
@@ -187,10 +186,10 @@ key_keybind.name.ADD_FRIEND:key.keyboard.j
 key_keybind.name.CHAT_PEEK:key.keyboard.unknown
 key_keybind.name.INVITE_FRIENDS:key.keyboard.unknown
 key_keybind.name.ZOOM:key.mouse.4
-soundCategory_master:0.8554084
-soundCategory_music:0.0
+soundCategory_master:1.0
+soundCategory_music:1.0
 soundCategory_record:1.0
-soundCategory_weather:0.01
+soundCategory_weather:1.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0

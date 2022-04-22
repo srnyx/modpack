@@ -37,7 +37,6 @@ prioritizeChunkUpdates:0
 biomeBlendRadius:1
 renderClouds:false
 resourcePacks:["vanilla","Fabric Mods","cullleaves/smartleaves","continuity/default","continuity/glass_pane_culling_fix","file/Mod Menu Resources.zip"]
-incompatibleResourcePacks:["cullleaves/smartleaves"]
 lastServer:
 lang:en_us
 soundDevice:
