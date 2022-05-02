@@ -1,0 +1,11 @@
+{
+	"bottom_right": [
+		{
+			"text": "srnyx's Modpack",
+			"clickEvent": {
+				"action": "open_url",
+				"value": "https://pack.srnyx.xyz"
+			}
+		}
+	]
+}

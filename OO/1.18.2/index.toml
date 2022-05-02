@@ -25,6 +25,10 @@ file = "config/yosbr/config/iris.properties"
 hash = "373885f3283136cdda5394b427f4058049ec9313ba7932be51426a572eb4b92e"
 
 [[files]]
+file = "config/yosbr/config/isxander-main-menu-credits.json"
+hash = "3d8eb168b07edcd978a9a7cb6d8d399ed3dabc00f2a0c27bb911413259157c51"
+
+[[files]]
 file = "config/yosbr/config/lambdynlights.toml"
 hash = "0ea9f04d5f7c422738834856b80be2242c94148d7a9275df81bfe2f7f63dc7fe"
 
@@ -50,7 +54,7 @@ hash = "d2885dfe64954291f4030fe53af2e04494cc0dae43ca8fe7131b54483a28f74d"
 
 [[files]]
 file = "config/yosbr/resourcepacks/Mod Menu Resources.zip"
-hash = "190d411eae8a0618e253aa23813b7dcc552bd995fcdccd6502ea8832244e7658"
+hash = "9469a4132e5eaa297aeed3b9a196e95538fffef2faa52033ada231589a025ab0"
 
 [[files]]
 file = "config/yosbr/shaderpacks/Sildur's Vibrant Shaders v1.32 Lite.zip"
@@ -92,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
+hash = "3894f56dbf821aebef6d4149ef30474d19c09ec9d27b8ee6f971ddfaa9057aaf"
 metafile = true
 
 [[files]]
@@ -102,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/completeconfig.toml"
-hash = "3dc8afb222b72064fe76daa8f09d159f95f6d96cbfa9fe246b9d5ae87ae084ae"
+hash = "ac4ef5d0e3ee33ed06232cf813b710f2f39e38718ff064fd7f7853080c53a526"
 metafile = true
 
 [[files]]
@@ -113,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/cull-leaves.toml"
 hash = "a6bd295330e16716d7ce62249c88e10f1d608982ed2d477f0592c6afa38f2290"
+metafile = true
+
+[[files]]
+file = "mods/cull-less-leaves.toml"
+hash = "0d7be112f0d024dec435732b4af7e99c9edce54b59af752b8696999774f69d39"
 metafile = true
 
 [[files]]
@@ -152,22 +161,22 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "01175385fc41a95afdfe7c988c697be564bd94aabb684b764b411c700bee81dc"
+hash = "d2fbaf45c8aed07525a3d592a02242db2c2a9a76cf6c995585835282e87d24f5"
 metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.toml"
-hash = "328ab993a9721cd5a0a87b3aedaf45ad8fb86210b42daa5f04a544fcf1f52604"
+hash = "25785a86466d4b51296dc71da2110bcd8972b6cdc47069f0ed3c4e8f72512d08"
 metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "69d17da8431a798a73f8e238e9114ff96089449706a699c1f69e4561bbc0055c"
+hash = "fab378c0172e0251334a08f0c6013b087847d3c6aa3eadc40de2e77b33fbec5e"
 metafile = true
 
 [[files]]
 file = "mods/irisshaders.toml"
-hash = "d1b796d25ba43d6b37218dcfdd5a88aaaead81028fe51dd40b9e4f1a9b731ecc"
+hash = "f8b55cf573545a31ba3fcd99b8005513aa00c34e73a53493ed55c3e5be547db0"
 metafile = true
 
 [[files]]
@@ -196,8 +205,13 @@ hash = "954032fd7697535870f901eb03abc1439e228de7bc598c7bde3073ad7f5bfeb5"
 metafile = true
 
 [[files]]
+file = "mods/main-menu-credits.toml"
+hash = "229746e66cad817f3f4c757f5b25d57561192237fb6ebd35cc120768b176ced9"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
-hash = "2c70ac84c0b9feb5c5d42543be5612770da38debac874f48cebb5e0433afba89"
+hash = "439297a26554e1723ca14ff0142e18a12180700578c270e23501e4b1083dc2f4"
 metafile = true
 
 [[files]]
@@ -212,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.toml"
-hash = "4a27a1741726c7489b2f38f18303c78938c33fba02f78725c7d6b511e32927fc"
+hash = "570bbd8f182e350e0b75bd94b10bf1aa3d505dc513e2708a8930832ec5b6b06f"
 metafile = true
 
 [[files]]
@@ -242,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.toml"
-hash = "414a6f492bff8699a841a8cda9649a267d0937a99cc5be554186f9fb5ad16ed3"
+hash = "0058c8ca9c69c15046d289a2028e0a0126c68017b9ab359e70f6e5dc370cf6b4"
 metafile = true
 
 [[files]]

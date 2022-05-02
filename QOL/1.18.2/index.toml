@@ -53,6 +53,10 @@ file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "8aea29e6557269b66722d4d9a60cbe6b754b2729788d0039834507916966246e"
 
 [[files]]
+file = "config/yosbr/config/isxander-main-menu-credits.json"
+hash = "3d8eb168b07edcd978a9a7cb6d8d399ed3dabc00f2a0c27bb911413259157c51"
+
+[[files]]
 file = "config/yosbr/config/lambdynlights.toml"
 hash = "b101c0deeaa22e5646233a8eb2280e7e87b4b3f1ec3e874a707277871e1a3276"
 
@@ -118,7 +122,7 @@ hash = "b876e4f5b4d982ad9a68b6f5b0a19b9f936d2891f75f586f396a2c1aa16d7ba5"
 
 [[files]]
 file = "config/yosbr/resourcepacks/Mod Menu Resources.zip"
-hash = "190d411eae8a0618e253aa23813b7dcc552bd995fcdccd6502ea8832244e7658"
+hash = "9469a4132e5eaa297aeed3b9a196e95538fffef2faa52033ada231589a025ab0"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryShaders_v4.1.zip"
@@ -162,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "9458f2379e1a68cb81337b694da4ff1d76344cc5c87a49fbc6880cef61c76187"
+hash = "612eb5b02d9f18e9c5327bb96373c692c72c9ebbae3541eea03feda76dcd764a"
 metafile = true
 
 [[files]]
@@ -182,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/brb.toml"
-hash = "d0019260b4b693fc227fef0a752dbc1e5ec5f9f6e3baf1f70218b8930793581f"
+hash = "c2363475101c33f9b46ce066756993fb20a146859d23e9cef27764cbb47edf78"
 metafile = true
 
 [[files]]
@@ -216,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
+hash = "3894f56dbf821aebef6d4149ef30474d19c09ec9d27b8ee6f971ddfaa9057aaf"
 metafile = true
 
 [[files]]
@@ -226,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/completeconfig.toml"
-hash = "3dc8afb222b72064fe76daa8f09d159f95f6d96cbfa9fe246b9d5ae87ae084ae"
+hash = "ac4ef5d0e3ee33ed06232cf813b710f2f39e38718ff064fd7f7853080c53a526"
 metafile = true
 
 [[files]]
@@ -247,6 +251,11 @@ metafile = true
 [[files]]
 file = "mods/cull-leaves.toml"
 hash = "a6bd295330e16716d7ce62249c88e10f1d608982ed2d477f0592c6afa38f2290"
+metafile = true
+
+[[files]]
+file = "mods/cull-less-leaves.toml"
+hash = "0d7be112f0d024dec435732b4af7e99c9edce54b59af752b8696999774f69d39"
 metafile = true
 
 [[files]]
@@ -291,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.toml"
-hash = "68ea151b3a2b580cc1c8378ce58970e4375fe09b41c42db39b802f16ceda0891"
+hash = "6ca956cf088d3b149f90c438dad1d2b8c4f9905f58a9fbe5262106073e220ee6"
 metafile = true
 
 [[files]]
@@ -316,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "01175385fc41a95afdfe7c988c697be564bd94aabb684b764b411c700bee81dc"
+hash = "d2fbaf45c8aed07525a3d592a02242db2c2a9a76cf6c995585835282e87d24f5"
 metafile = true
 
 [[files]]
@@ -331,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.toml"
-hash = "328ab993a9721cd5a0a87b3aedaf45ad8fb86210b42daa5f04a544fcf1f52604"
+hash = "25785a86466d4b51296dc71da2110bcd8972b6cdc47069f0ed3c4e8f72512d08"
 metafile = true
 
 [[files]]
@@ -346,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "69d17da8431a798a73f8e238e9114ff96089449706a699c1f69e4561bbc0055c"
+hash = "fab378c0172e0251334a08f0c6013b087847d3c6aa3eadc40de2e77b33fbec5e"
 metafile = true
 
 [[files]]
@@ -361,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.toml"
-hash = "d1b796d25ba43d6b37218dcfdd5a88aaaead81028fe51dd40b9e4f1a9b731ecc"
+hash = "f8b55cf573545a31ba3fcd99b8005513aa00c34e73a53493ed55c3e5be547db0"
 metafile = true
 
 [[files]]
@@ -395,6 +404,11 @@ hash = "954032fd7697535870f901eb03abc1439e228de7bc598c7bde3073ad7f5bfeb5"
 metafile = true
 
 [[files]]
+file = "mods/main-menu-credits.toml"
+hash = "229746e66cad817f3f4c757f5b25d57561192237fb6ebd35cc120768b176ced9"
+metafile = true
+
+[[files]]
 file = "mods/malilib.toml"
 hash = "fd88ab8b23121cea2b1c7d05f2b7cbbe76b93ced03d6b98f0b212521ccb0ecb2"
 metafile = true
@@ -410,12 +424,12 @@ metafile = true
 
 [[files]]
 file = "mods/mod-erate-loading-screen.toml"
-hash = "beb5fcd14212bae6d0c31d68878701f6a712a504e27803820353e8d302f506e1"
+hash = "67781e1260812f436eca68800a942af5722dcada97b1722e8061226f0e554fbb"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "2c70ac84c0b9feb5c5d42543be5612770da38debac874f48cebb5e0433afba89"
+hash = "439297a26554e1723ca14ff0142e18a12180700578c270e23501e4b1083dc2f4"
 metafile = true
 
 [[files]]
@@ -450,7 +464,7 @@ metafile = true
 
 [[files]]
 file = "mods/physics-mod.toml"
-hash = "3eae316358d00849a9b387157a6d2ec7147137a98146c4e8252c7f6393ae8b86"
+hash = "3dac2506629a117a2c0024a5378a745f99fce2e8755e1e346690fe4a681ac59e"
 metafile = true
 
 [[files]]
@@ -479,12 +493,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "2f8a7374fb90d53f3b6bda40655982fb35e791e1aa272156159290cad632051f"
-metafile = true
-
-[[files]]
-file = "mods/slight-gui-modifications.toml"
-hash = "70c9e65d45c6fdd46cee103f90815d80081789ce8f9bf05ede16546dff593c38"
+hash = "7ee39b749a78f9a3b79ae2e4b4f476f1b035b816f681af491c0c343c50a5389e"
 metafile = true
 
 [[files]]
@@ -523,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.toml"
-hash = "414a6f492bff8699a841a8cda9649a267d0937a99cc5be554186f9fb5ad16ed3"
+hash = "0058c8ca9c69c15046d289a2028e0a0126c68017b9ab359e70f6e5dc370cf6b4"
 metafile = true
 
 [[files]]

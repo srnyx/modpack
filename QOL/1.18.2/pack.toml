@@ -1,12 +1,12 @@
 name = "srnyx's Modpack"
 author = "srnyx"
-version = "3.0.0-qol"
+version = "3.0.1-qol"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "57188b8a63bb840d99ac40e956b65b7057a83c9fdf66475e41b29b19e9a85881"
+hash = "907dff6aa9242ca75de24de1db4da88274bca7073a86b5e2f08583a39fcd2946"
 
 [versions]
 fabric = "0.13.3"

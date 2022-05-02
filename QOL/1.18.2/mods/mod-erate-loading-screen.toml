@@ -1,13 +1,13 @@
 name = "Mod-erate Loading Screen"
-filename = "moderate-loading-screen-1.1.2+1.17-1.18.jar"
+filename = "moderate-loading-screen-1.1.3+1.17-1.18.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3608/716/moderate-loading-screen-1.1.2+1.17-1.18.jar"
+url = "https://edge.forgecdn.net/files/3769/472/moderate-loading-screen-1.1.3+1.17-1.18.jar"
 hash-format = "sha1"
-hash = "0290b3523966879b35596e653f4b995f651560a1"
+hash = "97dce3b9ad9a1b63a5be7676de1aafca950e18c5"
 
 [update]
 [update.curseforge]
-file-id = 3608716
+file-id = 3769472
 project-id = 557180
