@@ -4,7 +4,7 @@
 
 A simple FABRIC modpack that includes all the mods I play with, usually on multiplayer. The modpack includes mainly optimization mods, but it doesn't have OptiFine. Instead of OptiFine, it uses Sodium and other mods like Fabric Capes that give it the OptiFine feel.
 
-The modpack was built off of [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized), but is darastically different. This repository was also built off of [Fabulously Optimized's](https://github.com/Fabulously-Optimized/fabulously-optimized). *If you can't tell, I get a lot of inspiration from FO.*
+The modpack was inspired by [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized), but is darastically different. This repository was also inspired by [Fabulously Optimized's](https://github.com/Fabulously-Optimized/fabulously-optimized). *If you can't tell, I get a lot of inspiration from FO.*
 
 ## Downloads
 
