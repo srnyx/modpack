@@ -12,21 +12,18 @@ del "srnyx's Modpack-*.mrpack"
 del "srnyx's Modpack-*.zip"
 cls
 
+:: %pack%
+set pack="config\yosbr\resourcepacks\Mod Menu Resources.zip"
+
+:: Delete old resourcepack
+del %pack%
+
 :: %backend%
 set backend=%~dp0backend
 
-:: Do latest version stuff
-if "%original%"=="latest" (
-	:: %pack%
-	set pack="config\yosbr\resourcepacks\Mod Menu Resources.zip"
-
-	:: Delete old resourcepack
-	del !pack!
-	
-	:: ZIP resourcepack files
-	echo [92m--- Zipping Resourcepack ---[32m
-	CScript %backend%\zip.vbs "%backend%\..\..\Mod Menu Resources" !pack!
-)
+:: ZIP resourcepack files
+echo [92m--- Zipping Resourcepack ---[32m
+CScript %backend%\zip.vbs "%backend%\..\..\Mod Menu Resources" %pack%
 
 :: Generate modrinth files
 echo [92m--- Modrinth Export ---[32m
@@ -50,6 +47,9 @@ if exist "%output%" (
 echo [92m--- Move to output folder ---[32m
 mkdir "%output%"
 move "srnyx's Modpack*.*" %output%
+
+:: Add clear script to output folder
+xcopy /S /Y "%backend%\clear.bat" %output%
 
 :: Open output folder
 explorer %output%
