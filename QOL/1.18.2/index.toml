@@ -122,7 +122,7 @@ hash = "b876e4f5b4d982ad9a68b6f5b0a19b9f936d2891f75f586f396a2c1aa16d7ba5"
 
 [[files]]
 file = "config/yosbr/resourcepacks/Mod Menu Resources.zip"
-hash = "9469a4132e5eaa297aeed3b9a196e95538fffef2faa52033ada231589a025ab0"
+hash = "1258c2d813e9a9cd758e3fc5f34a5790d45a6778113048bfde4905aa9eb4b396"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryShaders_v4.1.zip"
@@ -344,6 +344,11 @@ hash = "25785a86466d4b51296dc71da2110bcd8972b6cdc47069f0ed3c4e8f72512d08"
 metafile = true
 
 [[files]]
+file = "mods/forcecloseworldloadingscreen.toml"
+hash = "e01e25c6704e6f8e976451719b18c6ebc91cbe6cd842de188addedb1c533ebc1"
+metafile = true
+
+[[files]]
 file = "mods/grid.toml"
 hash = "828719efd3ace9a96b9f2efac59c2dd9e64787a3a4a30ac84acd2ae3b9201906"
 metafile = true
@@ -482,8 +487,8 @@ file = "mods/replaymod-1.18.2-2.6.4.jar"
 hash = "26a008ca0ce7c352d9fad46f41adb896d0678ab5644e5cfa13ac436fb377ce7b"
 
 [[files]]
-file = "mods/respackautoupdater.toml"
-hash = "8d9491a104f57aed3812babf7db08b701ab90fa832e4dc061255f15d627de5a0"
+file = "mods/resclone.toml"
+hash = "201e06b4ed84ad504abc6ea2fda7a4c2b90e64bbd4a812b0cb3d763498ad3d62"
 metafile = true
 
 [[files]]

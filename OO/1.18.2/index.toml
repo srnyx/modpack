@@ -54,7 +54,7 @@ hash = "d2885dfe64954291f4030fe53af2e04494cc0dae43ca8fe7131b54483a28f74d"
 
 [[files]]
 file = "config/yosbr/resourcepacks/Mod Menu Resources.zip"
-hash = "9469a4132e5eaa297aeed3b9a196e95538fffef2faa52033ada231589a025ab0"
+hash = "1258c2d813e9a9cd758e3fc5f34a5790d45a6778113048bfde4905aa9eb4b396"
 
 [[files]]
 file = "config/yosbr/shaderpacks/Sildur's Vibrant Shaders v1.32 Lite.zip"
@@ -167,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.toml"
 hash = "25785a86466d4b51296dc71da2110bcd8972b6cdc47069f0ed3c4e8f72512d08"
+metafile = true
+
+[[files]]
+file = "mods/forcecloseworldloadingscreen.toml"
+hash = "e01e25c6704e6f8e976451719b18c6ebc91cbe6cd842de188addedb1c533ebc1"
 metafile = true
 
 [[files]]
