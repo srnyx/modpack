@@ -210,8 +210,9 @@ hash = "30aa8e08b8206182bc3a1d4da8e73a8633b289f2c001f9edd2e92f61855d66fd"
 metafile = true
 
 [[files]]
-file = "mods/clean-logs-1.1.0-all.jar"
-hash = "d891e7b006b6789c8dbbed3cdd8b6a63ca551fbf065a7537a44cfe029a9a763a"
+file = "mods/clean-logs.toml"
+hash = "f42f6d7f89bb1254311ca068b2b326489d5c0c9acd2840879c93fd6b97e33944"
+metafile = true
 
 [[files]]
 file = "mods/clear-despawn-fabric.toml"
@@ -345,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/forcecloseworldloadingscreen.toml"
-hash = "e01e25c6704e6f8e976451719b18c6ebc91cbe6cd842de188addedb1c533ebc1"
+hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
 metafile = true
 
 [[files]]
