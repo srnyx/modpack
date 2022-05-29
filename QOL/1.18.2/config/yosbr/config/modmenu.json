@@ -44,7 +44,8 @@
 	"kirin",
 	"mm",
 	"quilted-fabric-command-api-v1",
-	"quilted-fabric-lifecycle-events-v1"
+	"quilted-fabric-lifecycle-events-v1",
+	"microdurability-core"
   ],
   "log_deprecation_warnings": true
 }
