@@ -82,7 +82,7 @@ hash = "e50c1506e989f4ce351c8137a17be0e0faa81f2cf0b703177401075e201d7baf"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "92a192ef94477a340829ca38dcd7542ef3ae841a55d5367c59e0cf1cbc77ad59"
+hash = "8f4aa49d21848255d6e65d688022e41743472fd62ed7b2b1dd21869d70c42025"
 
 [[files]]
 file = "config/yosbr/config/nicephore.json"
