@@ -28,6 +28,8 @@ cls
 :: %mod%
 :mod
 if not "%action%"=="update" (
+	echo [32mCurrent directory: [0m%CD%
+	echo.
 	echo [32mType: [0m%type% [32m^(type "change-type" to change^)
 	echo [32mMinecraft version: [0m%version% [32m^(type "change-type" to change^)
 	echo [32mAction: [0m%action% [32m^(type "change-action" to change^)

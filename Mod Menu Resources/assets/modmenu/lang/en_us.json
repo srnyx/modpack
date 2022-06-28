@@ -74,6 +74,7 @@
   "modmenu.summaryTranslation.replaymod": "Record footage in-game\n§a✎§8 Auto-record, indicator, gamma, ...",
   "modmenu.summaryTranslation.resclone": "Automatically updates resourcepacks\n§8✎ (only advanced options)",
   "modmenu.summaryTranslation.respackopts": "Allows res. packs to show GUIs\n§a✎§8 Debug, dashloader compat.",
+  "modmenu.summaryTranslation.showmyname": "Shows your name in F5\n§8✎ (no options)",
   "modmenu.summaryTranslation.voicechat": "Proximity voice chat\n§a✎§8 Audio, HUD Icons, Group Chat Icons, ...",
   "modmenu.summaryTranslation.skinswapper": "Lets you change your skin in-game\n§a✎§8 Button, render, download",
   "modmenu.summaryTranslation.smoothboot": "Reduce game freezing\n§a✎§8 Thread count & priority",

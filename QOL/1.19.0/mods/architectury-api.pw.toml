@@ -1,0 +1,13 @@
+name = "Architectury API"
+filename = "architectury-5.7.27-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.7.27+fabric/architectury-5.7.27-fabric.jar"
+hash-format = "sha1"
+hash = "b1585ffd38c67619101e86c3c6319fa52efebf7c"
+
+[update]
+[update.modrinth]
+mod-id = "lhGA9TYQ"
+version = "oNHPgHOo"

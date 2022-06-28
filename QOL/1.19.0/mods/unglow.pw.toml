@@ -1,0 +1,13 @@
+name = "Unglow"
+filename = "unglow-1.1_1.19.x.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/J0FVT1ct/versions/1.1/unglow-1.1_1.19.x.jar"
+hash-format = "sha1"
+hash = "a7a671cb6dbef38a7c4e401445c91bc7a047c15b"
+
+[update]
+[update.modrinth]
+mod-id = "J0FVT1ct"
+version = "ePnNoX0q"
