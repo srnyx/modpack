@@ -1,0 +1,13 @@
+name = "Grid"
+filename = "grid-1.19.1-fabric0.58.5-1.6.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ebxDDOKt/versions/1.19.1-fabric0.58.5-1.6.7/grid-1.19.1-fabric0.58.5-1.6.7.jar"
+hash-format = "sha1"
+hash = "4215ac5f108ec6a64e06885337931eb90aecf046"
+
+[update]
+[update.modrinth]
+mod-id = "ebxDDOKt"
+version = "WMFcjpdd"
