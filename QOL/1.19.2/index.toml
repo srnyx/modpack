@@ -17,12 +17,12 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "b99f8b297b9429f5185c84805d1a67f650bba836cf83c6c9d81b275261169672"
+hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6d0dc2ae57a367a23c1d3cb36c92e14d957eb7702d25d2fb4e58a1ac983281d9"
+hash = "75dcdffc0d37e098ef12f1b149d68182337372e2d48653ffe0389b94b357a0de"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "749bf88d67ff9ddf272dc48d82402dd61ea2812238dfca4feb1fd78440675456"
+hash = "3648ed55ffae5bc153c16b2d414925cc30165b5171aa0e2a146e5ba22366fcf1"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "58fd0c579e75880dde1ad661819a3a7c9cdb4cc6ea3c042a9b8ae996adb3b970"
+hash = "4d37e88a354d5b9bbe966212393840e15b9c9b87519bdbf8a14343197b983dab"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "2169e44e13300b75bed771b83724278bc10d319270096cc8c3953271bf68a2ae"
+hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
 metafile = true
 
 [[files]]
@@ -227,12 +227,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "90cfb6a5fdd929c94421cd0674e2af68089e33a8e3965d7dec723ab00df2e94a"
+hash = "9dbc20e8a4e9bd8c997c2af628640f8dcdd05fde6437afbacd630531735c1fcb"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "93943bd52619233f1997c41be2b2ae566b0dadfb49bf806a6c73cf44db73d494"
+hash = "7f4661acedba1f64b7cbfe36f613400b2657e59ce921bee55ab25b247835c2ba"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "ae4b4112db3f14bcb9e8dc10ea06e83d84bff4d9ad2a3dfd74533c1256b98218"
+hash = "2a5a1f044c53108281b83f268f246669a04cf4eb4651aa1bd0faab6a9dda408f"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9e65b8697f98e0cb85560ab0d759274fa958be7c74686c2d521092a0943fca50"
+hash = "8ebae60f03be19399c0d2c3df37b4a09daeeae7470599413f800cfea3b711b90"
 metafile = true
 
 [[files]]
