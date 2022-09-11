@@ -8,8 +8,8 @@ The modpack was inspired by [Fabulously Optimized](https://www.curseforge.com/mi
 
 ## Downloads
 
-* [Curseforge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) (supports CurseForge Launcher, MultiMC, GDLauncher and vanilla launcher)
-* [Modrinth](https://modrinth.com/modpack/fabulously-optimized) (no supported launchers yet)
+* [Curseforge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) (supports MultiMC, CurseForge Launcher, GDLauncher and vanilla launcher)
+* [Modrinth](https://modrinth.com/modpack/fabulously-optimized) (supports MultiMC, PolyMC, and ATLauncher)
 
 ## Reviews
 
