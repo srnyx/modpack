@@ -16,7 +16,9 @@ cls
 set pack="config\yosbr\resourcepacks\Mod Menu Resources.zip"
 
 :: Delete old resourcepack
-del %pack%
+if exist %pack% (
+	del %pack%
+)
 
 :: %backend%
 set backend=%~dp0backend

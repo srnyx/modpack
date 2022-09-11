@@ -8,7 +8,7 @@ Set FS = CreateObject("Scripting.FileSystemObject")
 ZipFile = FS.GetAbsolutePathName(objArgs(1))
 
 ' Create an empty ZIP.
-CreateObject("Scripting.FileSystemObject").CreateTextFile(ZipFile, True).Write "PK" & Chr(5) & Chr(6) & String(18, vbNullChar)
+FS.CreateTextFile(ZipFile, True).Write "PK" & Chr(5) & Chr(6) & String(18, vbNullChar)
 
 ' Copy files into empty ZIP.
 Set objShell = CreateObject("Shell.Application")

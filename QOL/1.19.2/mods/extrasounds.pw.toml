@@ -1,13 +1,13 @@
 name = "ExtraSounds"
-filename = "extrasounds-2.3.1+1.19.jar"
+filename = "extrasounds-2.3.1+1.19.2-1.19.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uPWCQrVL/versions/2.3.1/extrasounds-2.3.1%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/uPWCQrVL/versions/yV1SwVzK/extrasounds-2.3.1%2B1.19.2-1.19.1.jar"
 hash-format = "sha1"
-hash = "4d92e8203882899591d15fce2adf9f036c7ac8f9"
+hash = "c43ac9ffe58cbf59b90eeb4be1a6aad40ebbfbfd"
 
 [update]
 [update.modrinth]
 mod-id = "uPWCQrVL"
-version = "meKuAXd9"
+version = "yV1SwVzK"

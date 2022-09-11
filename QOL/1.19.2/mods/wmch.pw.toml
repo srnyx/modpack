@@ -1,0 +1,13 @@
+name = "Where's My Chat History? (Chat Tweaks)"
+filename = "1.19-1.5.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MOqt4Z5n/versions/mzcT7MTa/1.19-1.5.1.jar"
+hash-format = "sha1"
+hash = "58ff36e1249a842c307049e5574f28a8ee943aaf"
+
+[update]
+[update.modrinth]
+mod-id = "MOqt4Z5n"
+version = "mzcT7MTa"

@@ -1,0 +1,13 @@
+name = "Better Taskbar"
+filename = "bettertaskbar-fabric-mc1.18.2-mc1.19.2-1.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gPEcet33/versions/1.18.2-1.5-Fabric/bettertaskbar-fabric-mc1.18.2-mc1.19.2-1.5.jar"
+hash-format = "sha1"
+hash = "bf072c8b9b525f75cee1e210265f8542fb89ceec"
+
+[update]
+[update.modrinth]
+mod-id = "gPEcet33"
+version = "zYw7Pwzy"

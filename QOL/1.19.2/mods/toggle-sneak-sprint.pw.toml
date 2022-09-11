@@ -1,0 +1,13 @@
+name = "Toggle Sneak & Sprint"
+filename = "togglesneak-sprint-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NdhTKgqM/versions/1.0.1/togglesneak-sprint-1.0.1.jar"
+hash-format = "sha1"
+hash = "6431a405e637e2eb837396d90b7d568417381b78"
+
+[update]
+[update.modrinth]
+mod-id = "NdhTKgqM"
+version = "SJSensTf"

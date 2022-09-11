@@ -1,0 +1,13 @@
+name = "Hide Nametags"
+filename = "togglenametags-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qFlNttam/versions/2.0.0/togglenametags-2.0.0.jar"
+hash-format = "sha1"
+hash = "613cddf4224a95d9efed17d4162c4250f80bbb62"
+
+[update]
+[update.modrinth]
+mod-id = "qFlNttam"
+version = "PU9Zbnyu"

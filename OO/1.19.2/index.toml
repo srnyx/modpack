@@ -101,6 +101,11 @@ hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
 metafile = true
 
 [[files]]
+file = "mods/hold-that-chunk.pw.toml"
+hash = "3948a057227f696cedd8951ce19f320ebcf5beacc8490bcddc8576692f9398f8"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
 metafile = true
@@ -157,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "2a5a1f044c53108281b83f268f246669a04cf4eb4651aa1bd0faab6a9dda408f"
+hash = "2f69649f1658de740bd483dc45f4b4d29267c00bec0ae9d80583e6dc115044a4"
 metafile = true
 
 [[files]]
