@@ -5,8 +5,8 @@ file = "config/yosbr/resourcepacks/Mod Menu Resources.zip"
 hash = "d68f6a9cb9a9ef8a206ac616d6e4ae07e8d3009369aa6b76b55ccf6b70d08ee3"
 
 [[files]]
-file = "mods/BetterPvPFairPlay_22.13.2_Fabric_1.19.1.jar"
-hash = "2dd575c39c2ac8532d04e582baa068beb15da25452f9d00349d4c9c3d585a828"
+file = "mods/BetterPvPFairPlay_22.14.1_Fabric_1.19.1.jar"
+hash = "af5250d805a71b6f809fa3da3ead79421f325bb84e3f711ca08a187afd798ca4"
 
 [[files]]
 file = "mods/BetterThirdPerson-Fabric-1.19-1.8.1.jar"
@@ -229,9 +229,8 @@ hash = "f0a1c212e68166b823a68080b32fd27d772fe87d533409fc0feb35a5c4c2093e"
 metafile = true
 
 [[files]]
-file = "mods/fastanim.pw.toml"
+file = "mods/fastanim.need"
 hash = "eff34655a27563df3b1044015998fb1a627e9a04fff1ecb438ed14a34be555d0"
-metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
@@ -387,6 +386,11 @@ hash = "f5f52dc1a653e0d04d5bb19a5d1950621a44dc56cfd0b6b5fb937620efdda8c4"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "2be8592684a1ffd24669a17fb873ee76e30115da86cad41fe502216ae2e55b49"
+metafile = true
+
+[[files]]
 file = "mods/physics-mod-2.8.13a-mc-1.19.x-fabric.jar"
 hash = "4e9cdc0df8acbd52662f00062158d10de4838ff18d073f0d386111f2f07b1c67"
 
@@ -490,8 +494,12 @@ hash = "b940915a9c937f8a5a11332eeac96a1f14d2fa7b83344678c2e2685ed188133b"
 metafile = true
 
 [[files]]
-file = "mods/wmch.pw.toml"
+file = "mods/wmch.need"
 hash = "7edea853ff2231d4f8325301683601f2f7a558493658ebb1301a452c1c6a5bd6"
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "f1b822298ccbb96ab43b054811b802080c3160db2168e7c795370779e8bc1b93"
 metafile = true
 
 [[files]]
