@@ -16,6 +16,11 @@ No changelog
 
 ## QOL
 
+### 4.0.1
+
+- Added libIPN (for Inventory Profiles Next)
+- Updated Better PvP, CraftPresence, Cull Less Leaves, Debugify, Fabric API, Fabric Language Kotlin, FastAnim, Hide Nametags, Isometric Renders, No Chat Reports, Simple Voice Chat, Sodium Extra, spark, and Very Many Players
+
 ### 2.2.1
 
 - Now comes shipped with Complementary Shaders, SEUS Renewed, Sildurs Vibrant Shaders Extreme Volumetric Lighting, Sildurs Vibrant Shaders Medium

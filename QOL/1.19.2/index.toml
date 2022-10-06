@@ -156,12 +156,12 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "96a151e3429c0a525e0fdb6408a9f201ff1dcbcb7cf52e363d99205635753c72"
+hash = "7b27058dd8666dc7da290a8f1027b9a514a71f2cae1aa1cd5e4cd10e06d9fa9a"
 metafile = true
 
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
-hash = "f75534f0b6580fadf95bef5efd6aacd25858bc0b3c8f64b648f72292c376324d"
+hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "7db65bc77910c1c7e2a9b195b61c7376d573940fd6c3c523c7ed48df1f8fe5b5"
+hash = "59da146d66e2948dfbd203684937dfb822711a228bd505332b5a979678bedbbc"
 metafile = true
 
 [[files]]
@@ -215,12 +215,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "049b71ecdbd76be84b4b2bd362aeb561e3d3c8b6415ec8726182631c3ef671e0"
+hash = "80366046a62a610cb3a5c3a8167caeea2e2857f7f19f363264d781c48eee57c6"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
+hash = "dfebd8072576c75a939f56cab83cabdf3c5828da7cdb814e97c272e6c0b8d006"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastanim.pw.toml"
-hash = "0a885c3a897510e4952aad487f648314f151a2288ec9b6c4e73415da028f679e"
+hash = "eff34655a27563df3b1044015998fb1a627e9a04fff1ecb438ed14a34be555d0"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/hidetags.pw.toml"
-hash = "577651dc933e6ab7c3257e86974df5426767bc5a467bd22d6a982290e49e83a2"
+hash = "5b838f8aa98f1b2b52b3b445ec8ca3e53514d9d9d536767c98c3a240147cda47"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/isometric-renders.pw.toml"
-hash = "e1262e49f38a3b085594c06411d2781979827d3569e044ac7fdd5ffbce199c96"
+hash = "d40f9fadd20abc5ad4896889816a3045d53447ea938b55bbb3edd82eaa3c97bf"
 metafile = true
 
 [[files]]
@@ -301,6 +301,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "65bb57fe8fd5a4a9d0de9d7d11cf5831c02de90fe652ae7895e6f69b6d594cd1"
 metafile = true
 
 [[files]]
@@ -358,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "86fd76830339379e145c23747d51608f1a3165df7e747184f2d9fc890c7ab385"
+hash = "eab828e2cd4d3e401958021f9c80c4bff781b84bbbc4f1052f941770eef3578a"
 metafile = true
 
 [[files]]
@@ -412,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "ee6b08c3017883ccea2741822d9247283f31516ea8b6ddf6b267922d9883aea1"
+hash = "76571435528fd407ece2d8e336b43da9a2d371086818107ea6c986e2a229835f"
 metafile = true
 
 [[files]]
@@ -431,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "82585384e2026e809e34368ac23e9a1e11918aa449529ce79903c03eb4cbbc2e"
+hash = "99c83e926faf4565a4a75f8666a9c68721c3effdeece027509e23c5d50395321"
 metafile = true
 
 [[files]]
@@ -446,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "e63228fdadc03ceaac771202e588fbf174bc0d47d5f20de863a5b8a5d233058a"
+hash = "fab2a06b136eb37c24269381681619d740da6dc3c0eae11e86c4431e18e83bb8"
 metafile = true
 
 [[files]]
@@ -471,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "5290122207493b6350080792571bceb0038941ffe3a73779e4a78a60f5b9c113"
+hash = "879d3193b867aececfd1c1d1f0d77255e602939865c0519191b273007982cb66"
 metafile = true
 
 [[files]]
