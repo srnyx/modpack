@@ -8,6 +8,7 @@ The modpack was inspired by [Fabulously Optimized](https://www.curseforge.com/mi
 
 ## Downloads
 
+* For the absolute latest (dev) builds: clone this repository and run `Tools/Export.bat`. *This will only work on operating systems that support Batch (such as Windows).* If you want the latest (stable) builds, use one of the methods below.
 * [Modrinth](https://modrinth.com/modpack/fabulously-optimized) (supports [MultiMC](https://multimc.org/), [Prism Launcher](https://prismlauncher.org/), and [ATLauncher](https://atlauncher.com/))
 * \*[Curseforge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) (supports vanilla launcher, [MultiMC](https://multimc.org/), [GDLauncher](https://gdlauncher.com/), and [CurseForge Launcher](https://download.curseforge.com/))
 * If none of the options above are suitable for you, you can join [my Discord server](https://srnyx.xyz/discord) where I (or someone else) would be happy to compile the modpack for you (for free of course)!
