@@ -1,0 +1,26 @@
+name: OO 1.19.x Builds
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'OO/1.19.*/**'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Build modpack
+      working-directory: "./OO/1.19.*"
+      run: |
+        "../../Tools/backend/packwiz.exe modrinth export"
+        "../../Tools/backend/packwiz.exe curseforge export"
+    - name: Upload artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: OO 1.19.x
+        path: "OO/1.19.*/srnyx's Modpack-*-oo.*"

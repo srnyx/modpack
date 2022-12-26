@@ -1,0 +1,26 @@
+name: QOL 1.17.x Builds
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'QOL/1.17.*/**'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Build modpack
+      working-directory: "./QOL/1.17.*"
+      run: |
+        "../../Tools/backend/packwiz.exe modrinth export"
+        "../../Tools/backend/packwiz.exe curseforge export"
+    - name: Upload artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: QOL 1.17.x
+        path: "QOL/1.17.*/srnyx's Modpack-*-qol.*"
