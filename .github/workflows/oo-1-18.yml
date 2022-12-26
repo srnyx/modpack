@@ -15,8 +15,8 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
     - name: Build modpack
-      working-directory: "./OO/1.18.*"
       run: |
+        "cd OO/1.18.*"
         "../../Tools/backend/packwiz.exe modrinth export"
         "../../Tools/backend/packwiz.exe curseforge export"
     - name: Upload artifact
