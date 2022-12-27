@@ -12,12 +12,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+    - name: Set environment variable
+      env:
+        version: QOL/1.18.*
     - name: Checkout code
       uses: actions/checkout@v2
     - name: Build modpack
       run: ./Tools/backend/actions.sh
-      with:
-        version: QOL/1.18.*
     - name: Upload artifact
       uses: actions/upload-artifact@v2
       with:

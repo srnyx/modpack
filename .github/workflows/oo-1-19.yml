@@ -12,12 +12,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+    - name: Set environment variable
+      env:
+        version: OO/1.19.*
     - name: Checkout code
       uses: actions/checkout@v2
     - name: Build modpack
       run: ./Tools/backend/actions.sh
-      with:
-        version: OO/1.19.*
     - name: Upload artifact
       uses: actions/upload-artifact@v2
       with:

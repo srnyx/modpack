@@ -1,6 +1,5 @@
 #!/bin/bash
 
-version="${{ inputs.version }}"
 packwiz="../../Tools/backend/packwiz.exe"
 
 for dir in $version; do
