@@ -15,10 +15,9 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
     - name: Build modpack
-      run: |
-        "cd QOL/1.19.*"
-        "../../Tools/backend/packwiz.exe modrinth export"
-        "../../Tools/backend/packwiz.exe curseforge export"
+      run: ./Tools/backend/actions.sh
+      with:
+        version: QOL/1.19.*
     - name: Upload artifact
       uses: actions/upload-artifact@v2
       with:
